@@ -357,12 +357,10 @@ Przepis wprowadza – jako jednostka dodana nowelizacją, która weszła w życi
 **Brzmienie przepisu:**
 
 > Art. 611f. Przepisy niniejszego rozdziału stosuje się odpowiednio do przejęcia lub przekazania do wykonania orzeczeń o karach pieniężnych.
->
-> Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny,
 
 Przepis zawiera normę odsyłającą, nakazującą odpowiednie stosowanie przepisów rozdziału 66 do przejęcia lub przekazania do wykonania orzeczeń o karach pieniężnych. Rozwiązanie to rozszerza zakres zastosowania omówionych wyżej instytucji – przejęcia i przekazania orzeczeń, kontroli sądowej dopuszczalności, postępowania exequatur oraz podziału kwot uzyskanych z egzekucji – na kary pieniężne sensu largo, a więc sankcje o charakterze finansowym inne niż grzywna w rozumieniu Kodeksu karnego, np. kary administracyjne o charakterze represyjnym orzeczone w postępowaniu karnym lub karnoskarbowym, jeżeli przewiduje to właściwa umowa międzynarodowa. Umieszczony pod treścią artykułu tytuł „Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, nawiązki, świadczenia pieniężnego lub orzeczenia zasądzającego od sprawcy koszty procesu” zapowiada tematykę kolejnego rozdziału 66a i stanowi element systematyki wewnętrznej ustawy, wskazujący na wyraźne rozgraniczenie między ogólnym reżimem przejęcia i przekazania orzeczeń (rozdział 66, oparty na klasycznych umowach międzynarodowych) a odrębnym, zharmonizowanym unijnym mechanizmem wzajemnego uznawania kar o charakterze pieniężnym uregulowanym w rozdziałach 66a i 66b.
 
-#### Rozdział 66a nawiązki, świadczenia pieniężnego lub orzeczenia zasądzającego od sprawcy koszty procesu
+#### Rozdział 66a — Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, — nawiązki, świadczenia pieniężnego lub orzeczenia zasądzającego od sprawcy koszty procesu
 
 ### Art. 611fa
 

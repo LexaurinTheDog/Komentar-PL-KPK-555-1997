@@ -1,6 +1,6 @@
 # Rozdział komentarza 16 — Wzajemne uznawanie orzeczeń probacyjnych i europejskiego nakazu ochrony w Unii Europejskiej oraz przepisy końcowe działu XIII i koszty procesu karnego (art. 611u – art. 622)
 
-#### Rozdział 66h — Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny, a także orzeczenia o warunkowym zwolnieniu oraz warunkowym umorzeniu postępowania karnego
+#### Rozdział 66h — Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę — pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, — samoistnie orzeczony środek karny, a także orzeczenia o warunkowym zwolnieniu — oraz warunkowym umorzeniu postępowania karnego
 
 ### Art. 611u
 

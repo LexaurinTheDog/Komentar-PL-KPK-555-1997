@@ -1,6 +1,6 @@
 # Rozdział komentarza 12 — Zabezpieczenie dowodów i mienia między państwami UE oraz europejski nakaz dochodzeniowy (art. 589g – art. 589zt)
 
-#### Rozdział 62a — Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
+#### Rozdział 62a — Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów — lub mającego na celu zabezpieczenie mienia
 
 ### Art. 589g
 
@@ -70,7 +70,7 @@ Przepis reguluje mechanizm rekompensaty finansowej między państwami członkows
 
 Przepis pełni funkcję normy zakresowej, ograniczającej stosowanie całego rozdziału 62a (dotyczącego zatrzymania dowodów) wyłącznie do wystąpień kierowanych do tych państw członkowskich Unii Europejskiej, w których nie znajduje zastosowania europejski nakaz dochodzeniowy (END), uregulowany odrębnie w rozdziale 62c. END, jako nowszy i bardziej wszechstronny instrument współpracy w zakresie gromadzenia dowodów, zastąpił co do zasady dawne mechanizmy oparte na wzajemnym uznawaniu postanowień o zabezpieczeniu dowodów w relacjach między państwami członkowskimi go stosującymi. Ponieważ jednak nie wszystkie państwa członkowskie Unii Europejskiej uczestniczą we wzmocnionej współpracy w zakresie END (dotyczy to w szczególności państw, które nie są nim związane), zachodzi potrzeba utrzymania w mocy dawnego mechanizmu opartego na Rozdziale 62a dla relacji z tymi państwami. Przepis zapewnia zatem komplementarność obu reżimów prawnych i zapobiega luce w systemie współpracy międzynarodowej w sprawach karnych. Poniżej przepisu w tekście jednolitym znajduje się tytuł kolejnej jednostki redakcyjnej rozdziału – „Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów” – zapowiadający treść rozdziału 62b.
 
-#### Rozdział 62b — Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
+#### Rozdział 62b — Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów — lub mającego na celu zabezpieczenie mienia
 
 ### Art. 589l
 
@@ -208,7 +208,7 @@ Przepis reguluje mechanizm rekompensaty finansowej analogiczny do przewidzianego
 
 Przepis zamyka rozdział 62b normą zakresową analogiczną do art. 589ka, ograniczając stosowanie przepisów tego rozdziału (dotyczących wykonania w Polsce orzeczeń o zatrzymaniu dowodów) wyłącznie do orzeczeń organów tych państw członkowskich Unii Europejskiej, w których nie ma zastosowania europejski nakaz dochodzeniowy. W relacjach z państwami stosującymi END prymat ma bowiem instrumentarium przewidziane w rozdziale 62c i 62d, jako rozwiązanie nowsze, bardziej wszechstronne i zharmonizowane na poziomie unijnym. Przepis ten zapewnia spójność systemową między dwoma reżimami współpracy sądowej funkcjonującymi równolegle w zależności od statusu prawnego danego państwa członkowskiego wobec END. Poniżej przepisu w tekście jednolitym znajduje się tytuł kolejnej jednostki redakcyjnej – „Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych” – zapowiadający treść rozdziału 62c, regulującego instytucję europejskiego nakazu dochodzeniowego wydawanego przez polskie organy procesowe.
 
-#### Rozdział 62c — Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
+#### Rozdział 62c — Wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych — na podstawie europejskiego nakazu dochodzeniowego
 
 ### Art. 589w
 
@@ -346,7 +346,7 @@ Przepis reguluje kwestię zaskarżalności postanowienia w przedmiocie wydania E
 
 Przepis reguluje instytucję powiadomienia jako alternatywy dla wydania END w przypadku kontroli i utrwalania rozmów telefonicznych dotyczących osoby znajdującej się na terytorium innego państwa członkowskiego. Paragraf 1 określa przesłanki zastosowania: kontrola i utrwalanie treści rozmów telefonicznych zostały zarządzone lub zatwierdzone na podstawie art. 237 § 1 i 2 wobec osoby przebywającej na terytorium innego państwa członkowskiego, a nie zachodzi potrzeba wydania END – w takiej sytuacji prokurator, Policja lub organ, o którym mowa w art. 312, powiadamia właściwy organ tego państwa o zamiarze przeprowadzenia tych czynności, ich przeprowadzaniu albo wykonaniu, w zależności od momentu, w którym dowiedział się o miejscu pobytu osoby. Instytucja powiadomienia różni się od END tym, że nie wymaga formalnego wydania nakazu podlegającego wykonaniu przez organ obcy, lecz opiera się na mechanizmie informacyjnym umożliwiającym państwu, na którego terytorium znajduje się osoba, ocenę dopuszczalności czynności i wykorzystania jej wyników – co reguluje szczegółowo art. 589zt w relacji odwrotnej. Paragraf 2 nakazuje odpowiednie stosowanie art. 589y § 4, dotyczącego obowiązku tłumaczenia dokumentu. Paragraf 3 określa obligatoryjną treść powiadomienia: informacje o organie, który zarządził kontrolę (pkt 1), o samej kontroli, w tym okresie jej trwania (pkt 2), oraz o osobie, której dotyczy (pkt 3). Paragraf 4 zawiera upoważnienie do wydania rozporządzenia określającego wzór formularza powiadomienia, z uwzględnieniem konieczności udostępnienia danych niezbędnych do oceny możliwości przeprowadzenia czynności oraz wykorzystania uzyskanych dowodów. Poniżej przepisu w tekście jednolitym znajduje się tytuł kolejnej jednostki redakcyjnej – „Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych” – zapowiadający treść rozdziału 62d, regulującego wykonanie w Polsce END wydanego przez inne państwo członkowskie.
 
-#### Rozdział 62d — Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
+#### Rozdział 62d — Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych — na podstawie europejskiego nakazu dochodzeniowego
 
 ### Art. 589ze
 
