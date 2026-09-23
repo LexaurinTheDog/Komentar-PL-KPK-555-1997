@@ -208,7 +208,7 @@ Przepis otwiera rozdział 39 i określa terminy oraz alternatywne sposoby zakoń
 >
 > 1) imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego;
 >
-> 1a) informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;
+> 1a)⁽⁶⁷⁾ informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;
 >
 > 2) dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody;
 >
@@ -224,7 +224,7 @@ Przepis otwiera rozdział 39 i określa terminy oraz alternatywne sposoby zakoń
 >
 > § 3. Jeżeli postępowanie przygotowawcze zakończyło się w formie dochodzenia, akt oskarżenia może nie zawierać uzasadnienia.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 20 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 67) Dodany przez art. 82 pkt 20 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis określa obligatoryjne elementy treści aktu oskarżenia, stanowiące podstawowy warunek formalny skutecznego wniesienia oskarżenia. § 1 wymaga wskazania danych identyfikujących oskarżonego, w tym numeru telefonu, telefaksu i adresu poczty elektronicznej lub informacji o ich braku bądź niemożności ustalenia, a także danych o zastosowanych środkach zapobiegawczych i zabezpieczeniu majątkowym (pkt 1), informacji o ewentualnej zgodzie oskarżonego na doręczenia elektroniczne wraz z adresem do doręczeń (pkt 1a), dokładnego opisu zarzucanego czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, zwłaszcza wysokości powstałej szkody (pkt 2), wskazania okoliczności recydywy lub działania w warunkach określonych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego, jeżeli zachodzą (pkt 3), wskazania kwalifikacji prawnej czynu, a więc przepisów ustawy karnej, pod które czyn podpada (pkt 4), oraz wskazania sądu właściwego do rozpoznania sprawy (pkt 5); pkt 6 został uchylony. § 2 nakłada obowiązek dołączenia uzasadnienia przytaczającego fakty i dowody, na których oskarżenie się opiera, wyjaśniającego w miarę potrzeby podstawę prawną oskarżenia i omawiającego okoliczności podnoszone przez oskarżonego w jego obronie — jest to realizacja zasady rzetelnego procesu, umożliwiająca sądowi i obronie pełną orientację co do materiału dowodowego już na etapie wstępnej kontroli oskarżenia. § 3 wprowadza istotne złagodzenie tego wymogu dla spraw zakończonych dochodzeniem — akt oskarżenia może wówczas nie zawierać uzasadnienia, co koresponduje z ogólną tendencją do odformalizowania tej uproszczonej formy postępowania przygotowawczego. Przepis w obecnym brzmieniu ma zostać uzupełniony o nową jednostkę redakcyjną z dniem 1 października 2029 r. na mocy nowelizacji wskazanej w przypisie urzędowym do tekstu jednolitego.
 
@@ -240,15 +240,15 @@ Przepis określa obligatoryjne elementy treści aktu oskarżenia, stanowiące po
 >
 > § 2. Prokurator może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków, o których mowa w art. 350a.
 >
-> § 3. Do aktu oskarżenia dołącza się, do wiadomości sądu, listę ujawnionych osób pokrzywdzonych z podaniem ich adresów, a także adresy osób, o których mowa w § 1 pkt 1. Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić. Należy również podać numery telefonów, telefaksów, adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić, oraz adresy do doręczeń elektronicznych, jeżeli osoby te wyraziły zgodę na dokonywanie doręczeń na ten adres. § 3a. Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.
+> § 3. Do aktu oskarżenia dołącza się, do wiadomości sądu, listę ujawnionych osób pokrzywdzonych z podaniem ich adresów, a także adresy osób, o których mowa w § 1 pkt 1. Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić.⁽⁶⁸⁾ Należy również podać numery telefonów, telefaksów, adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić, oraz adresy do doręczeń elektronicznych, jeżeli osoby te wyraziły zgodę na dokonywanie doręczeń na ten adres.⁽⁶⁹⁾ § 3a. Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.
 >
 > § 4. (uchylony)
 >
 > § 5. Prokurator może także dołączyć do aktu oskarżenia wniosek o orzeczenie wobec podmiotu zobowiązanego określonego w art. 91a zwrotu korzyści majątkowej albo jej równowartości uprawnionemu podmiotowi lub orzeczenie przepadku świadczenia albo jego równowartości na rzecz Skarbu Państwa. Wniosek powinien zawierać uzasadnienie.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 69.
+*Odnośnik w tekście jednolitym* 68) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 69.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 21 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 69) Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 21 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis uzupełnia katalog obligatoryjnej treści aktu oskarżenia o elementy związane z inicjatywą dowodową oskarżyciela oraz z ochroną praw pokrzywdzonych i innych uczestników postępowania. § 1 wymaga wskazania listy osób, których wezwania na rozprawę żąda oskarżyciel, oraz wykazu innych dowodów, o których przeprowadzenie na rozprawie głównej oskarżyciel wnosi. § 2 pozwala prokuratorowi wnieść już na tym etapie o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków, o których mowa w art. 350a, a więc świadków, których bezpośrednie przesłuchanie nie jest konieczne z uwagi na charakter okoliczności, które mają stwierdzić, lub z uwagi na uprzednie przesłuchanie bądź pobyt za granicą. § 3 nakłada obowiązek dołączenia do wiadomości sądu listy ujawnionych pokrzywdzonych z ich adresami oraz adresów osób wskazanych w § 1 pkt 1, a także — w miarę możliwości ich ustalenia — numerów telefonów, telefaksów i adresów poczty elektronicznej tych osób, z uwzględnieniem także adresu do doręczeń elektronicznych, jeżeli dana osoba wyraziła zgodę na doręczenia w tej formie; § 3a nakłada dodatkowo obowiązek dołączenia listy pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2, dotyczącego roszczeń związanych z przepadkiem lub zwrotem korzyści majątkowej uzyskanej z przestępstwa. § 4 został uchylony. § 5 pozwala prokuratorowi dołączyć do aktu oskarżenia uzasadniony wniosek o orzeczenie wobec podmiotu zobowiązanego, o którym mowa w art. 91a, zwrotu korzyści majątkowej albo jej równowartości uprawnionemu podmiotowi lub przepadku świadczenia albo jego równowartości na rzecz Skarbu Państwa — jest to instytucja umożliwiająca rozstrzygnięcie w procesie karnym o korzyściach uzyskanych przez podmiot trzeci kosztem majątku pochodzącego z przestępstwa, co do której przypisy urzędowe wskazują na odrębne brzmienie obowiązujące do wejścia w życie zmiany wynikającej z nowelizacji przywołanej w odnośniku oraz na nowe brzmienie mające wejść w życie z dniem 1 października 2029 r.
 
@@ -262,9 +262,9 @@ Przepis uzupełnia katalog obligatoryjnej treści aktu oskarżenia o elementy zw
 >
 > 1) załącznik adresowy do akt sprawy;
 >
-> 2) po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.
+> 2)⁽⁵¹⁾ po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.
 >
-> 2) po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.
+> 2)⁽⁵²⁾ po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.
 >
 > § 2a. Odpisy aktu oskarżenia, o których mowa w § 2 pkt 2, mogą być przesłane sądowi w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów, którzy w dniu przesłania sądowi aktu oskarżenia są pozbawieni wolności lub których adresu poczty elektronicznej nie ustalono.
 >
@@ -272,9 +272,9 @@ Przepis uzupełnia katalog obligatoryjnej treści aktu oskarżenia o elementy zw
 >
 > § 4. O złożeniu wniosku, o którym mowa w art. 333 § 5, prokurator zawiadamia podmiot zobowiązany i podmiot uprawniony określone w art. 91a oraz poucza te podmioty o treści przepisów art. 91a, art. 415a i art. 444 § 2.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 51) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 52) Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje czynności techniczne towarzyszące wniesieniu aktu oskarżenia do sądu oraz obowiązki informacyjne wobec uczestników postępowania. § 1 nakazuje przesłać sądowi wraz z aktem oskarżenia akta postępowania przygotowawczego łącznie z załącznikami, co umożliwia sądowi pełną weryfikację materiału zebranego w toku śledztwa lub dochodzenia już na etapie wstępnej kontroli. § 2 wymaga dołączenia załącznika adresowego do akt sprawy oraz po jednym odpisie (docelowo, zgodnie z nowym brzmieniem wynikającym z nowelizacji dotyczącej doręczeń elektronicznych — kopii) aktu oskarżenia dla każdego oskarżonego, a w wypadku dołączenia do aktu oskarżenia wniosku, o którym mowa w art. 335 § 2, także dla każdego pokrzywdzonego; zmiana terminologiczna z „odpisu” na „kopię” ma charakter dostosowawczy do terminologii ustawy o doręczeniach elektronicznych i nie zmienia istoty obowiązku. § 2a dopuszcza przesłanie sądowi odpisów aktu oskarżenia w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów pozbawionych wolności w dniu przesłania aktu oskarżenia oraz tych, których adresu poczty elektronicznej nie ustalono. § 3 nakłada na oskarżyciela publicznego obowiązek zawiadomienia oskarżonego i ujawnionego pokrzywdzonego o przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 343, art. 343a i art. 378a, regulujących tryby konsensualnego i przyspieszonego zakończenia sprawy, a także osoby lub instytucji, która złożyła zawiadomienie o przestępstwie; pokrzywdzonego należy dodatkowo pouczyć o treści art. 49a (dotyczącego możliwości dochodzenia roszczeń majątkowych w procesie karnym) oraz o prawie złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego. § 4 nakłada na prokuratora, który złożył wniosek, o którym mowa w art. 333 § 5, obowiązek zawiadomienia podmiotu zobowiązanego i podmiotu uprawnionego określonych w art. 91a wraz z pouczeniem o treści art. 91a, art. 415a i art. 444 § 2, co ma zapewnić tym podmiotom, mimo że nie są stronami postępowania karnego sensu stricto, możliwość obrony swoich interesów majątkowych.
 
@@ -346,19 +346,19 @@ Przepis wprowadza mechanizm informowania pokrzywdzonego o treści zarzutów oska
 
 **Brzmienie przepisu:**
 
-> Art. 338. § 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.
+> Art. 338. § 1.⁽⁵¹⁾ Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.
 >
-> § 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.
+> § 1.⁽⁵²⁾ Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.
 >
 > § 1a. Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu.
 >
-> § 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.
+> § 1b.⁽⁵¹⁾ Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.
 >
-> § 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.
+> § 1b.⁽⁵²⁾ Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.
 >
 > § 2. Oskarżony ma prawo wniesienia, w terminie 7 dni od doręczenia mu aktu oskarżenia, pisemnej odpowiedzi na akt oskarżenia, o czym należy go pouczyć.
 >
-> § 3. Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się odpis aktu oskarżenia bez uzasadnienia. Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się kopię aktu oskarżenia bez uzasadnienia. Uzasadnienie aktu oskarżenia udostępnia się jednak z zachowaniem rygorów określonych przez prezesa sądu lub sąd.
+> § 3. Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się odpis aktu oskarżenia bez uzasadnienia.⁽⁵⁾ Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się kopię aktu oskarżenia bez uzasadnienia.⁽⁶⁾ Uzasadnienie aktu oskarżenia udostępnia się jednak z zachowaniem rygorów określonych przez prezesa sądu lub sąd.
 >
 > § 4. Odpis aktu oskarżenia w postaci elektronicznej doręcza się na adres poczty elektronicznej. Art. 132 § 3 zdanie drugie stosuje się.
 >
@@ -366,17 +366,13 @@ Przepis wprowadza mechanizm informowania pokrzywdzonego o treści zarzutów oska
 >
 > § 6. Jeżeli oskarżony nie włada w wystarczającym stopniu językiem polskim, przed wydaniem zarządzenia o doręczeniu aktu oskarżenia prezes sądu lub referendarz sądowy wzywa tłumacza w celu przełożenia aktu oskarżenia na język obcy. Oskarżonemu doręcza się odpis aktu oskarżenia wraz z tłumaczeniem.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 51) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 52) Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 5) Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
-
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.
-
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320, z 2021 r. poz. 1135, z 2022 r. poz. 1002 i 2754 oraz z 2023 r. poz. 1860), która weszła w życie z dniem 5 października 2021 r.; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 6) Zdanie pierwsze ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320, z 2021 r. poz. 1135, z 2022 r. poz. 1002 i 2754 oraz z 2023 r. poz. 1860), która weszła w życie z dniem 5 października 2021 r.; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje doręczenie oskarżonemu odpisu (docelowo, zgodnie z nowelizacją dostosowującą terminologię do doręczeń elektronicznych — kopii) aktu oskarżenia po pozytywnym przejściu kontroli formalnej. § 1 nakazuje prezesowi sądu lub referendarzowi sądowemu niezwłoczne zarządzenie doręczenia oskarżonemu odpisu aktu oskarżenia wraz z wezwaniem do składania wniosków dowodowych w terminie 7 dni od doręczenia. § 1a wprowadza obszerny katalog obowiązkowych pouczeń towarzyszących doręczeniu, obejmujący m.in. treść przepisów o warunkowym zawieszeniu wykonania niektórych czynności, o trybach konsensualnych (art. 338a, art. 338b), o możliwości złożenia wniosków dotyczących trybu rozpoznania sprawy (art. 341 § 1, art. 349 § 8 zdanie trzecie), o zasadach udziału w rozprawie (art. 374, art. 376, art. 377) oraz o treści art. 422 dotyczącego wniosku o uzasadnienie wyroku, a także o możliwości obciążenia oskarżonego kosztami wyznaczenia obrońcy z urzędu w zależności od wyniku procesu — pouczenia te mają zapewnić oskarżonemu realną orientację w przysługujących mu uprawnieniach i konsekwencjach procesowych. § 1b nakazuje doręczyć odpis wniosku, o którym mowa w art. 335 § 1, albo — jeżeli akt oskarżenia zawiera wniosek z art. 335 § 2 — jego odpis, także ujawnionemu pokrzywdzonemu, co pozwala mu zająć stanowisko wobec proponowanego trybu konsensualnego zakończenia sprawy. § 2 przyznaje oskarżonemu prawo wniesienia, w terminie 7 dni od doręczenia aktu oskarżenia, pisemnej odpowiedzi na akt oskarżenia, o czym należy go pouczyć. § 3 chroni informacje niejawne o klauzuli „tajne” lub „ściśle tajne” — w razie niebezpieczeństwa ich ujawnienia oskarżonemu doręcza się akt oskarżenia bez uzasadnienia, przy czym uzasadnienie udostępnia się z zachowaniem rygorów określonych przez prezesa sądu lub sąd, co godzi prawo oskarżonego do obrony z ochroną interesów bezpieczeństwa państwa. § 4 reguluje doręczenie elektroniczne odpisu aktu oskarżenia na adres poczty elektronicznej, z odpowiednim stosowaniem art. 132 § 3 zdanie drugie. § 5 nakazuje zawiadomić adresata o dacie doręczenia i adresie poczty elektronicznej, na który wysłano odpis, za pośrednictwem operatora pocztowego wskazanego w art. 131 § 1 pkt 1, dopuszczając w uzasadnionych wypadkach zawiadomienie telefoniczne. § 6 zapewnia oskarżonemu niewładającemu w wystarczającym stopniu językiem polskim prawo do tłumaczenia aktu oskarżenia — przed wydaniem zarządzenia o doręczeniu prezes sądu lub referendarz sądowy wzywa tłumacza, a oskarżonemu doręcza się odpis aktu oskarżenia wraz z tłumaczeniem, co stanowi realizację gwarancji rzetelnego procesu wobec osób nieznających języka postępowania. Powtarzające się w tekście jednolitym przypisy urzędowe wskazują, że posłużenie się terminem „odpis” obowiązuje do wejścia w życie nowelizacji dotyczącej doręczeń elektronicznych, po którym to dniu — 1 października 2029 r. — pojęcie to zostanie zastąpione terminem „kopia”, przy czym zmiana ta ma charakter wyłącznie terminologiczny i nie modyfikuje istoty obowiązku doręczenia.
 
@@ -392,15 +388,15 @@ Przepis wprowadza instytucję konsensualnego zakończenia sprawy z inicjatywy sa
 
 **Brzmienie przepisu:**
 
-> Art. 338b. § 1. Żądanie, o którym mowa w art. 78 § 1 i art. 78a, powinno zostać złożone do sądu w terminie 7 dni od daty doręczenia odpisu aktu oskarżenia. Żądanie, o którym mowa w art. 78 § 1 i art. 78a, powinno zostać złożone do sądu w terminie 7 dni od daty doręczenia kopii aktu oskarżenia. Do żądania, o którym mowa w art. 78 § 1, należy dołączyć dowody mające wykazać, że oskarżony nie jest w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny.
+> Art. 338b. § 1. Żądanie, o którym mowa w art. 78 § 1 i art. 78a, powinno zostać złożone do sądu w terminie 7 dni od daty doręczenia odpisu aktu oskarżenia.⁽⁵⁾ Żądanie, o którym mowa w art. 78 § 1 i art. 78a, powinno zostać złożone do sądu w terminie 7 dni od daty doręczenia kopii aktu oskarżenia.⁽⁶⁾ Do żądania, o którym mowa w art. 78 § 1, należy dołączyć dowody mające wykazać, że oskarżony nie jest w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny.
 >
 > § 2. Jeżeli złożenie żądania po terminie spowodowałoby konieczność zmiany terminu rozprawy albo posiedzenia, o którym mowa w art. 341, art. 343 lub art. 343a, żądanie rozpoznaje się niezwłocznie po terminie rozprawy lub posiedzenia. Przepis ten stosuje się odpowiednio, jeżeli żądanie zostało złożone w terminie, lecz nie odpowiada wymaganiom formalnym, o których mowa w art. 120 § 1, lub nie dołączono dowodów, o których mowa w § 1 zdanie drugie.
 >
 > § 3. Po pierwszym terminie rozprawy albo posiedzenia, o którym mowa w art. 341, art. 343 lub art. 343a, żądanie, o którym mowa w art. 78 § 1 lub w art. 78a § 1, powinno zostać złożone do sądu w takim terminie, aby jego rozpoznanie nie powodowało konieczności zmiany kolejnego terminu rozprawy albo posiedzenia. Przepisy § 1 zdanie drugie oraz § 2 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 5) Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320, z 2021 r. poz. 1135, z 2022 r. poz. 1002 i 2754 oraz z 2023 r. poz. 1860), która weszła w życie z dniem 5 października 2021 r.; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 6) Zdanie pierwsze ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320, z 2021 r. poz. 1135, z 2022 r. poz. 1002 i 2754 oraz z 2023 r. poz. 1860), która weszła w życie z dniem 5 października 2021 r.; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje terminy i tryb składania żądań ustanowienia obrońcy lub pełnomocnika z urzędu po wniesieniu aktu oskarżenia. § 1 wymaga złożenia żądania, o którym mowa w art. 78 § 1 (obrońca z urzędu dla oskarżonego niemającego środków na obronę) i art. 78a (pełnomocnik z urzędu), w terminie 7 dni od doręczenia odpisu (docelowo kopii) aktu oskarżenia, przy czym do żądania z art. 78 § 1 należy dołączyć dowody wykazujące niemożność poniesienia kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny. § 2 przewiduje mechanizm chroniący sprawność postępowania: jeżeli złożenie żądania po terminie spowodowałoby konieczność zmiany terminu rozprawy albo posiedzenia wskazanego w art. 341, art. 343 lub art. 343a, żądanie rozpoznaje się niezwłocznie po tym terminie, a przepis ten stosuje się odpowiednio również wtedy, gdy żądanie złożono w terminie, lecz z brakami formalnymi lub bez wymaganych dowodów. § 3 rozciąga analogiczną zasadę na żądania składane po pierwszym terminie rozprawy lub posiedzenia — powinny one wpłynąć w takim czasie, aby ich rozpoznanie nie powodowało konieczności zmiany kolejnego terminu, z odpowiednim stosowaniem § 1 zdanie drugie i § 2. Przypisy urzędowe towarzyszące przepisowi wskazują, że wskazane w nim odesłania do „odpisu” aktu oskarżenia obowiązują do wejścia w życie nowelizacji o doręczeniach elektronicznych z dnia 18 listopada 2020 r., która częściowo weszła w życie już w 2021 r., natomiast zmiana terminologiczna na „kopię” w tym przepisie wejdzie w życie z dniem 1 października 2029 r.
 

@@ -28,9 +28,9 @@ Przepis określa reguły techniczne obliczania biegu terminów procesowych, maj�
 
 **Brzmienie przepisu:**
 
-> Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.
+> Art. 124.⁽²²⁾ Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 23.
+*Odnośnik w tekście jednolitym* 22) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 23.
 
 Przepis określa warunki, w których termin procesowy uznaje się za zachowany mimo faktycznego dotarcia pisma do adresata (organu) już po jego upływie – tzw. zasadę daty nadania, a nie daty wpływu. W brzmieniu obowiązującym do czasu wejścia w życie zmiany, o której mowa w przypisie urzędowym do tego artykułu, przepis wskazuje zamknięty katalog sposobów nadania pisma, które skutkują zachowaniem terminu: nadanie w placówce operatora pocztowego działającego na terenie Unii Europejskiej, złożenie w polskim urzędzie konsularnym, złożenie przez żołnierza (z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie) w dowództwie jednostki wojskowej, złożenie przez osobę pozbawioną wolności w administracji odpowiedniego zakładu karnego, a w wypadku członka załogi polskiego statku morskiego – przekazanie pisma kapitanowi statku. Wspólną cechą wszystkich tych sposobów jest brak bezpośredniego wpływu strony na dalszy obieg przesyłki po jej nadaniu – decydująca jest chwila przekazania pisma uprawnionemu podmiotowi pośredniczącemu, a nie chwila jego faktycznego doręczenia organowi procesowemu. Regulacja ta chroni interesy stron, zwłaszcza osób pozbawionych wolności oraz przebywających poza granicami kraju, przed skutkami opóźnień w obrocie pocztowym, za które nie ponoszą odpowiedzialności. Zgodnie z przypisem urzędowym, przepis w tym brzmieniu obowiązuje jedynie przejściowo, do wejścia w życie zmiany wskazanej w odnośniku 23, opisanej w kolejnym przepisie tego artykułu (art. 124 w wersji 2).
 
@@ -38,7 +38,7 @@ Przepis określa warunki, w których termin procesowy uznaje się za zachowany m
 
 **Brzmienie przepisu:**
 
-> Art. 124.Termin jest zachowany, jeżeli przed jego upływem pismo zostało:
+> Art. 124.⁽²³⁾Termin jest zachowany, jeżeli przed jego upływem pismo zostało:
 >
 > 1) nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo w polskim urzędzie konsularnym;
 >
@@ -46,7 +46,7 @@ Przepis określa warunki, w których termin procesowy uznaje się za zachowany m
 >
 > 3) wysłane na adres do doręczeń elektronicznych.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 6 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 23) W brzmieniu ustalonym przez art. 82 pkt 6 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis stanowi przyszłe brzmienie art. 124, ustalone nowelizacją wskazaną w przypisie urzędowym (art. 82 pkt 6 ustawy powołanej w odnośniku 6) i wejdzie w życie z dniem 1 października 2029 r., zastępując z tym dniem dotychczasową regulację. Zasadnicza treść normy pozostaje niezmieniona – termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane lub złożone w jeden ze wskazanych sposobów – jednak przepis zyskuje nową, punktową systematykę oraz zostaje rozszerzony o dodatkową, trzecią przesłankę. Punkt 1 łączy w jednej jednostce redakcyjnej dotychczasowe przesłanki nadania pisma w placówce operatora pocztowego na terenie Unii Europejskiej albo w polskim urzędzie konsularnym. Punkt 2 powtarza bez zmian merytorycznych przesłanki dotyczące żołnierzy, osób pozbawionych wolności oraz członków załogi polskiego statku morskiego, znane już z dotychczasowego brzmienia. Kluczową nowością jest punkt 3, wprowadzający nową, samodzielną podstawę zachowania terminu – wysłanie pisma na adres do doręczeń elektronicznych, co stanowi konsekwencję postępującej cyfryzacji postępowania karnego i wdrożenia systemu doręczeń elektronicznych, o którym mowa również w przepisach rozdziału 15 (np. art. 131 § 1 pkt 1 w brzmieniu przyszłym). Zmiana ta zrównuje pod względem skutków prawnych nadanie pisma drogą tradycyjną (pocztową) z jego wysłaniem za pośrednictwem elektronicznej skrzynki doręczeń, co ma istotne znaczenie praktyczne dla stron korzystających z komunikacji elektronicznej z organami procesowymi.
 
@@ -54,9 +54,9 @@ Przepis stanowi przyszłe brzmienie art. 124, ustalone nowelizacją wskazaną w 
 
 **Brzmienie przepisu:**
 
-> Art. 124a. Jeżeli pismo zostanie wniesione przez umieszczenie jego treści w portalu informacyjnym, uznaje się je za wniesione w chwili wskazanej w elektronicznym potwierdzeniu wniesienia pisma.
+> Art. 124a.⁽²⁴⁾ Jeżeli pismo zostanie wniesione przez umieszczenie jego treści w portalu informacyjnym, uznaje się je za wniesione w chwili wskazanej w elektronicznym potwierdzeniu wniesienia pisma.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 24) Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 12.
 
 Przepis, dodany nowelizacją wskazaną w przypisie urzędowym (art. 1 pkt 4 ustawy powołanej w odnośniku 12), reguluje chwilę wniesienia pisma składanego za pośrednictwem portalu informacyjnego, a więc systemu teleinformatycznego służącego do komunikacji między sądem a uczestnikami postępowania. Zgodnie z przepisem, pismo wniesione przez umieszczenie jego treści w portalu informacyjnym uznaje się za wniesione w chwili wskazanej w elektronicznym potwierdzeniu wniesienia pisma – a więc decydujące znaczenie ma nie moment faktycznego zapoznania się z pismem przez organ, lecz moment wygenerowania przez system elektronicznego dowodu wniesienia. Rozwiązanie to jest funkcjonalnym odpowiednikiem instytucji przewidzianej w art. 124 dla pism nadawanych drogą pocztową czy składanych przez określone podmioty – zapewnia pewność co do chwili dokonania czynności procesowej niezależnie od tego, kiedy pismo zostanie rzeczywiście otwarte lub przetworzone przez pracownika sądu. Przepis ma istotne znaczenie dla obliczania zachowania terminów zawitych (art. 122) w odniesieniu do pism wnoszonych w postaci elektronicznej za pośrednictwem portalu informacyjnego, którego zastosowanie w komunikacji z sądem systematycznie się rozszerza, w tym w zakresie doręczeń uregulowanych w art. 133a.
 
@@ -120,27 +120,25 @@ Przepis uzupełnia regulację z art. 127b, precyzując sposób liczenia dnia trw
 
 **Brzmienie przepisu:**
 
-> Art. 128. § 1. Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.
+> Art. 128. § 1.⁽²⁵⁾ Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.
 >
-> § 1. Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.
+> § 1.⁽²⁶⁾ Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.
 >
-> § 1a. Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.
+> § 1a.⁽²⁷⁾ Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.
 >
-> § 1b. Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
+> § 1b.⁽²⁷⁾ Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
 >
 > § 2. Wszelkie pisma przeznaczone dla uczestników postępowania doręcza się w taki sposób, by treść ich nie była udostępniona osobom niepowołanym.
 >
-> § 3. Orzeczenia i zarządzenia mogą być doręczane przez umieszczenie ich treści w portalu informacyjnym.
+> § 3.⁽²⁸⁾ Orzeczenia i zarządzenia mogą być doręczane przez umieszczenie ich treści w portalu informacyjnym.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 26.
+*Odnośnik w tekście jednolitym* 25) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 26.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 7 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 26) W brzmieniu ustalonym przez art. 82 pkt 7 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 7 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 27) Dodany przez art. 82 pkt 7 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 7 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
-
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 12; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 28) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 12; wszedł w życie z dniem 10 września 2025 r.
 
 Przepis otwiera rozdział 15 poświęcony doręczeniom i określa podstawowe zasady doręczania orzeczeń i zarządzeń w postępowaniu karnym. W brzmieniu obowiązującym obecnie, § 1 przewiduje, że orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie – a więc doręczeniu podlegają wyłącznie te orzeczenia i zarządzenia, co do których przepis szczególny wprost przewiduje taki obowiązek, w odróżnieniu od ogłoszenia, które jest zasadą podstawową w odniesieniu do orzeczeń. Zgodnie z przypisem urzędowym, z dniem 1 października 2029 r. § 1 uzyska nowe brzmienie, wprowadzone nowelizacją wskazaną w odnośniku 6: doręczenie orzeczenia albo podlegającego zaskarżeniu zarządzenia będzie następować w postaci kopii zamieszczonej w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym – co stanowi istotne przesunięcie od modelu doręczeń papierowych (uwierzytelniony odpis) ku modelowi elektronicznemu opartemu na systemie teleinformatycznym sądu. Z tą samą datą wejdą w życie nowe jednostki redakcyjne: § 1a, precyzujący, że orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi, oraz § 1b, rozciągający odpowiednie stosowanie § 1 na akt oskarżenia i określone wnioski kończące etap przygotowawczy (wniosek o wydanie wyroku skazującego, o rozpoznanie sprawy w postępowaniu przyspieszonym, o warunkowe umorzenie postępowania oraz o umorzenie postępowania z powodu niepoczytalności sprawcy i zastosowanie środka zabezpieczającego). Paragraf 2 formułuje ogólną zasadę poufności doręczeń – pisma przeznaczone dla uczestników postępowania muszą być doręczane w sposób uniemożliwiający zapoznanie się z ich treścią przez osoby niepowołane, co stanowi realizację ochrony danych osobowych i tajemnicy postępowania. Paragraf 3, dodany i już obowiązujący od 10 września 2025 r., dopuszcza alternatywny sposób doręczania orzeczeń i zarządzeń przez umieszczenie ich treści w portalu informacyjnym, co koresponduje z regulacją szczegółową zawartą w art. 133a i stanowi wyraz postępującej cyfryzacji komunikacji sądu z uczestnikami postępowania.
 
@@ -160,11 +158,11 @@ Przepis określa obligatoryjną treść wezwań kierowanych do uczestników post
 
 **Brzmienie przepisu:**
 
-> Art. 130. Pisma doręcza się za pokwitowaniem odbioru. Odbierający potwierdza odbiór swym czytelnym podpisem zawierającym imię i nazwisko na zwrotnym pokwitowaniu, na którym doręczający potwierdza swym podpisem sposób doręczenia. Jeżeli ustawa nie stanowi inaczej, odbierający potwierdza odbiór swym czytelnym podpisem zawierającym imię i nazwisko na zwrotnym pokwitowaniu, na którym doręczający potwierdza swym podpisem sposób doręczenia.
+> Art. 130. Pisma doręcza się za pokwitowaniem odbioru. Odbierający potwierdza odbiór swym czytelnym podpisem zawierającym imię i nazwisko na zwrotnym pokwitowaniu, na którym doręczający potwierdza swym podpisem sposób doręczenia.⁽²⁹⁾ Jeżeli ustawa nie stanowi inaczej, odbierający potwierdza odbiór swym czytelnym podpisem zawierającym imię i nazwisko na zwrotnym pokwitowaniu, na którym doręczający potwierdza swym podpisem sposób doręczenia.⁽³⁰⁾
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 30.
+*Odnośnik w tekście jednolitym* 29) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 30.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 8 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 30) Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 8 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje formę potwierdzania doręczenia pism procesowych. Zasadą jest doręczanie za pokwitowaniem odbioru – odbierający potwierdza fakt otrzymania pisma czytelnym podpisem zawierającym imię i nazwisko na zwrotnym pokwitowaniu, a doręczający potwierdza na tym samym dokumencie własnym podpisem sposób, w jaki doręczenie zostało dokonane. Zdanie drugie przepisu, powtórzone w tekście jednolitym w dwóch wariantach redakcyjnych, wskazuje – zgodnie z przypisem urzędowym – że obecnie obowiązujące brzmienie zostanie z dniem 1 października 2029 r. zastąpione brzmieniem uzależniającym ten obowiązek od tego, czy ustawa nie stanowi inaczej – zmiana ta wprowadza wyraźny wyjątek od zasady pokwitowania na rzecz alternatywnych, elektronicznych sposobów potwierdzania doręczenia, przewidzianych w znowelizowanych przepisach o doręczeniach elektronicznych i doręczeniach przez portal informacyjny (np. art. 124 w wersji 2, art. 133a). Pokwitowanie odbioru stanowi podstawowy dowód dokonania doręczenia i ma kluczowe znaczenie dla ustalenia chwili rozpoczęcia biegu terminów procesowych liczonych od dnia doręczenia.
 
@@ -172,7 +170,7 @@ Przepis reguluje formę potwierdzania doręczenia pism procesowych. Zasadą jest
 
 **Brzmienie przepisu:**
 
-> Art. 131. § 1. Wezwania, zawiadomienia oraz inne pisma, od których daty doręczenia biegną terminy, doręcza się przez:
+> Art. 131. § 1.⁽³¹⁾ Wezwania, zawiadomienia oraz inne pisma, od których daty doręczenia biegną terminy, doręcza się przez:
 >
 > 1) operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
 >
@@ -182,13 +180,13 @@ Przepis reguluje formę potwierdzania doręczenia pism procesowych. Zasadą jest
 >
 > 4) Policję – tylko w razie niezbędnej konieczności.
 >
-> § 1. Wezwania, zawiadomienia oraz inne pisma doręcza się:
+> § 1.⁽³²⁾ Wezwania, zawiadomienia oraz inne pisma doręcza się:
 >
 > 1) na adres do doręczeń elektronicznych; doręczenia podmiotowi niepublicznemu, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, dokonuje się za jego zgodą wyrażoną w tym postępowaniu;
 >
 > 2) przez organ procesowy dokonujący czynności procesowej – w toku tej czynności.
 >
-> § 1a. Jeżeli doręczenia nie można dokonać w sposób wskazany w § 1, doręczenia dokonuje się:
+> § 1a.⁽³³⁾ Jeżeli doręczenia nie można dokonać w sposób wskazany w § 1, doręczenia dokonuje się:
 >
 > 1) przez operatora wyznaczonego w ramach publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;
 >
@@ -202,11 +200,11 @@ Przepis reguluje formę potwierdzania doręczenia pism procesowych. Zasadą jest
 >
 > § 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 32.
+*Odnośnik w tekście jednolitym* 31) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 32.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 9 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 32) W brzmieniu ustalonym przez art. 82 pkt 9 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 9 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 33) Dodany przez art. 82 pkt 9 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis określa krąg podmiotów uprawnionych do dokonywania doręczeń pism, od których daty doręczenia biegną terminy procesowe – a więc pism o szczególnym znaczeniu dla sytuacji procesowej adresata. W brzmieniu obecnie obowiązującym, § 1 wymienia cztery kategorie doręczycieli: operatora pocztowego w rozumieniu ustawy – Prawo pocztowe (pkt 1), pracownika organu wysyłającego (pkt 2), sam organ procesowy dokonujący danej czynności – w toku tej czynności (pkt 3), oraz Policję – wyłącznie w razie niezbędnej konieczności, a więc jako środek subsydiarny stosowany wyjątkowo (pkt 4). Zgodnie z przypisem urzędowym, z dniem 1 października 2029 r. przepis ten ulegnie zasadniczej przebudowie w związku z pełnym wdrożeniem systemu doręczeń elektronicznych: nowy § 1 ograniczy podstawowe sposoby doręczania do doręczenia na adres do doręczeń elektronicznych (z zastrzeżeniem, że wobec podmiotu niepublicznego w rozumieniu ustawy o doręczeniach elektronicznych wymagana jest jego zgoda wyrażona w danym postępowaniu) oraz doręczenia przez organ procesowy w toku czynności procesowej, a dotychczasowe sposoby doręczania za pośrednictwem operatora pocztowego, pracownika organu czy Policji staną się sposobami subsydiarnymi, stosowanymi dopiero wówczas, gdy doręczenia nie można dokonać drogą elektroniczną (nowy § 1a, przewidujący w takim wypadku kolejno: operatora wyznaczonego w ramach publicznej usługi hybrydowej, operatora pocztowego, pracownika organu wysyłającego oraz Policję). Ta zmiana systemowa odzwierciedla priorytetyzację doręczeń elektronicznych jako podstawowego kanału komunikacji organu z uczestnikami postępowania, przy zachowaniu tradycyjnych sposobów jako rozwiązań zapasowych. Paragraf 2 reguluje szczególny tryb zawiadamiania licznych pokrzywdzonych – jeżeli indywidualne zawiadomienie o przysługujących im uprawnieniach powodowałoby poważne utrudnienie w prowadzeniu postępowania, dopuszczalne jest zawiadomienie zbiorowe w drodze ogłoszenia w prasie, radiu, telewizji lub na stronie internetowej sądu albo prokuratury. Paragraf 3 wprowadza wyjątek od tej reguły w odniesieniu do postanowień podlegających obowiązkowi doręczenia – należy je zawsze doręczyć pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia zwróci się o to, co chroni prawo pokrzywdzonego do uzyskania pełnej informacji o istotnych rozstrzygnięciach mimo zastosowania trybu zbiorowego zawiadomienia.
 
@@ -214,9 +212,9 @@ Przepis określa krąg podmiotów uprawnionych do dokonywania doręczeń pism, o
 
 **Brzmienie przepisu:**
 
-> Art. 131a. Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.
+> Art. 131a.⁽³⁴⁾ Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 10 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 34) Dodany przez art. 82 pkt 10 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis, dodany nowelizacją wprowadzającą docelowy model doręczeń elektronicznych (wchodzącą w życie 1 października 2029 r.), wprowadza domniemanie doręczenia w sytuacji braku dowodu otrzymania pisma wysłanego na adres do doręczeń elektronicznych. Jeżeli doręczenie następuje w sposób wskazany w art. 131 § 1 pkt 1 (a więc na adres do doręczeń elektronicznych) i brak jest dowodu otrzymania w rozumieniu ustawy o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy. Regulacja ta jest funkcjonalnym odpowiednikiem znanej z dotychczasowej praktyki procesowej instytucji tzw. doręczenia zastępczego (fikcji doręczenia) stosowanej przy awizowaniu przesyłek pocztowych (por. art. 133 § 2), przeniesionym na grunt komunikacji elektronicznej – zapobiega to sytuacji, w której bierność lub techniczna niedostępność adresata blokowałaby skutecznie bieg terminów procesowych. Czternastodniowy termin liczony jest od chwili wystawienia dowodu wysłania, a nie od chwili faktycznego umieszczenia pisma w systemie teleinformatycznym adresata, co ma zapewnić jednoznaczność ustalenia chwili doręczenia niezależną od dalszych zdarzeń technicznych po stronie odbiorcy.
 
@@ -224,23 +222,23 @@ Przepis, dodany nowelizacją wprowadzającą docelowy model doręczeń elektroni
 
 **Brzmienie przepisu:**
 
-> Art. 132. § 1. Pismo doręcza się adresatowi osobiście.
+> Art. 132. § 1.⁽³⁵⁾ Pismo doręcza się adresatowi osobiście.
 >
-> § 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.
+> § 1.⁽³⁶⁾ Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.
 >
-> § 1a. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata. W tym wypadku pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, składa się w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, umieszczając zawiadomienie o tym w skrytce pocztowej adresata. § 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.
+> § 1a. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.⁽³⁷⁾ W tym wypadku pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, składa się w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.⁽³⁸⁾ § 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.
 >
 > § 3. Pismo może być także doręczone za pośrednictwem telefaksu lub poczty elektronicznej. W takim wypadku dowodem doręczenia jest potwierdzenie transmisji danych.
 >
 > § 4. Przepisów § 2 i 3 oraz art. 133 § 3 nie stosuje się do doręczenia oskarżonemu zawiadomienia o pierwszym terminie rozprawy głównej, terminie posiedzenia, o którym mowa w art. 341 § 1, art. 343 § 5, art. 343a i art. 420 § 1, oraz doręczenia wyroku, o którym mowa w art. 500 § 1.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 36.
+*Odnośnik w tekście jednolitym* 35) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 36.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 11 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 36) W brzmieniu ustalonym przez art. 82 pkt 11 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 38.
+*Odnośnik w tekście jednolitym* 37) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 38.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 11 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 38) Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 11 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje sposób i miejsce doręczania pism procesowych osobom fizycznym. Zasadą wyrażoną w § 1 jest doręczenie osobiste adresatowi; w wersji przyszłej (od 1 października 2029 r.) zasada ta zostanie ograniczona do pism doręczanych w sposób wskazany w art. 131 § 1 pkt 2 (przez pracownika organu wysyłającego) lub § 1a (sposoby subsydiarne), co koresponduje z nadaniem doręczeniom elektronicznym statusu sposobu podstawowego. Paragraf 1a przewiduje możliwość doręczenia na wniosek adresata do wskazanej przez niego skrytki pocztowej – w takim wypadku pismo składa się w placówce pocztowej właściwego operatora, umieszczając w skrytce jedynie zawiadomienie o możliwości odbioru, co stanowi wygodne rozwiązanie dla adresatów niedysponujących stałym miejscem odbioru korespondencji. Paragraf 2 reguluje doręczenie zastępcze w razie chwilowej nieobecności adresata w mieszkaniu – pismo doręcza się wówczas dorosłemu domownikowi, a w razie jego nieobecności administracji domu, dozorcy lub sołtysowi, o ile podejmą się przekazać pismo adresatowi; przepis odsyła przy tym odpowiednio do art. 133 § 2 w zakresie obowiązku pozostawienia zawiadomienia o doręczeniu zastępczym. Paragraf 3 dopuszcza doręczenie za pośrednictwem telefaksu lub poczty elektronicznej, przy czym dowodem doręczenia jest w takim wypadku potwierdzenie transmisji danych – jest to rozwiązanie fakultatywne, wymagające zazwyczaj wcześniejszego wskazania takiego kanału komunikacji przez adresata lub jego akceptacji tej formy. Paragraf 4 wyłącza stosowanie doręczenia zastępczego (§ 2 i 3) oraz doręczenia awizowanego (art. 133 § 3) do szczególnie istotnych dla realizacji prawa do obrony pism kierowanych do oskarżonego – zawiadomienia o pierwszym terminie rozprawy głównej, o terminach określonych posiedzeń (art. 341 § 1, art. 343 § 5, art. 343a, art. 420 § 1) oraz wyroku, o którym mowa w art. 500 § 1 – w tych wypadkach ustawodawca wymaga rzeczywistego, potwierdzonego dotarcia pisma do oskarżonego, co ma zagwarantować jego świadomy udział w kluczowych momentach postępowania.
 
@@ -248,9 +246,9 @@ Przepis reguluje sposób i miejsce doręczania pism procesowych osobom fizycznym
 
 **Brzmienie przepisu:**
 
-> Art. 133. § 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.
+> Art. 133. § 1.⁽³⁹⁾ Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.
 >
-> § 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.
+> § 1.⁽⁴⁰⁾ Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.
 >
 > § 2. O pozostawieniu pisma w myśl § 1 doręczający umieszcza zawiadomienie w skrzynce do doręczania korespondencji bądź na drzwiach mieszkania adresata lub w innym widocznym miejscu ze wskazaniem, gdzie i kiedy pismo pozostawiono oraz że należy je odebrać w ciągu 7 dni; w razie bezskutecznego upływu tego terminu, należy czynność zawiadomienia powtórzyć jeden raz. W razie dokonania tych czynności pismo uznaje się za doręczone.
 >
@@ -262,9 +260,9 @@ Przepis reguluje sposób i miejsce doręczania pism procesowych osobom fizycznym
 >
 > § 3. Pismo można również pozostawić osobie upoważnionej do odbioru korespondencji w miejscu stałego zatrudnienia adresata.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 40.
+*Odnośnik w tekście jednolitym* 39) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 40.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 12 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 40) W brzmieniu ustalonym przez art. 82 pkt 12 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje procedurę doręczenia zastępczego (awizowania) stosowaną, gdy doręczenia nie można dokonać w żaden ze sposobów przewidzianych w art. 132. Paragraf 1, w brzmieniu obecnym i przyszłym (od 1 października 2029 r., z dostosowaniem do nowego katalogu operatorów z art. 131 § 1a), przewiduje pozostawienie pisma przesłanego za pośrednictwem operatora pocztowego w najbliższej placówce pocztowej tego operatora, a pisma przesłanego w inny sposób – w najbliższej jednostce Policji albo we właściwym urzędzie gminy. Paragraf 2 nakłada na doręczającego obowiązek umieszczenia zawiadomienia o pozostawieniu pisma w skrzynce do doręczania korespondencji, na drzwiach mieszkania adresata lub w innym widocznym miejscu, ze wskazaniem miejsca i terminu odbioru pisma (7 dni) oraz konsekwencji jego bezskutecznego upływu – w takim wypadku należy czynność zawiadomienia powtórzyć jednokrotnie; po dopełnieniu tych czynności pismo uznaje się za doręczone (fikcja doręczenia), niezależnie od tego, czy adresat rzeczywiście odebrał przesyłkę. Paragraf 2a rozszerza krąg osób uprawnionych do odbioru pisma pozostawionego w placówce pocztowej o osobę upoważnioną na podstawie pełnomocnictwa pocztowego. Paragrafy 2b i 2c zostały uchylone. Paragraf 3 dopuszcza alternatywnie pozostawienie pisma osobie upoważnionej do odbioru korespondencji w miejscu stałego zatrudnienia adresata, co stanowi dodatkową, fakultatywną możliwość doręczenia niewymagającą uprzedniej nieskuteczności doręczenia w miejscu zamieszkania. Instytucja doręczenia zastępczego, mimo istotnego znaczenia dla zapewnienia sprawności postępowania, budzi w praktyce wątpliwości co do rzeczywistej gwarancji zapoznania się adresata z treścią pisma, co uzasadnia wyłączenia przewidziane w art. 132 § 4 dla pism o szczególnym znaczeniu dla prawa do obrony.
 
@@ -272,33 +270,33 @@ Przepis reguluje procedurę doręczenia zastępczego (awizowania) stosowaną, gd
 
 **Brzmienie przepisu:**
 
-> Art. 133a. § 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+> Art. 133a. § 1.⁽⁴¹⁾ Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
 >
-> § 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+> § 1.⁽⁴²⁾ Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
 >
-> § 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.
+> § 1a.⁽⁴³⁾ Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.
 >
-> § 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.
+> § 2.⁽⁴⁴⁾ Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.
 >
-> § 3. W przypadku, o którym mowa w § 1, pismo uznaje się za doręczone w czasie wskazanym w dokumencie potwierdzającym doręczenie. W przypadku braku dokumentu, który potwierdza doręczenie pisma, doręczenie to uznaje się za skuteczne z upływem 14 dni od dnia umieszczenia treści tego pisma w portalu informacyjnym w sposób określony w § 1.
+> § 3.⁽⁴⁵⁾ W przypadku, o którym mowa w § 1, pismo uznaje się za doręczone w czasie wskazanym w dokumencie potwierdzającym doręczenie. W przypadku braku dokumentu, który potwierdza doręczenie pisma, doręczenie to uznaje się za skuteczne z upływem 14 dni od dnia umieszczenia treści tego pisma w portalu informacyjnym w sposób określony w § 1.
 >
-> § 3a. Jeżeli podmiot wskazany w § 1 nie posiada konta w portalu informacyjnym, pismo uważa się za doręczone z upływem 14 dni od dnia umieszczenia treści tego pisma w tym portalu w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+> § 3a.⁽⁴⁶⁾ Jeżeli podmiot wskazany w § 1 nie posiada konta w portalu informacyjnym, pismo uważa się za doręczone z upływem 14 dni od dnia umieszczenia treści tego pisma w tym portalu w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
 >
 > § 4. Przewodniczący zarządza odstąpienie od doręczenia pisma przez umieszczenie jego treści w portalu informacyjnym, jeżeli dokonanie doręczenia w taki sposób jest niemożliwe ze względu na charakter tego pisma, w szczególności jeżeli zachodzi potrzeba wydania stronie uwierzytelnionego odpisu orzeczenia.
 >
 > § 5. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, tryb i sposób dokonywania doręczeń pism w postaci elektronicznej w postępowaniu karnym, mając na względzie zapewnienie skuteczności doręczeń tych pism oraz ochronę praw osób, którym te pisma są doręczane.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 42.
+*Odnośnik w tekście jednolitym* 41) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 42.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 12; wejdzie w życie z dniem 1 czerwca 2026 r.
+*Odnośnik w tekście jednolitym* 42) W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 12; wejdzie w życie z dniem 1 czerwca 2026 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 12; wejdzie w życie z dniem 1 czerwca 2026 r.
+*Odnośnik w tekście jednolitym* 43) Dodany przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 12; wejdzie w życie z dniem 1 czerwca 2026 r.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 lit. c ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 44) W brzmieniu ustalonym przez art. 1 pkt 6 lit. c ustawy, o której mowa w odnośniku 12.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 lit. c ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 45) W brzmieniu ustalonym przez art. 1 pkt 6 lit. c ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 6 lit. d ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 46) Dodany przez art. 1 pkt 6 lit. d ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
 
 Przepis reguluje instytucję doręczeń dokonywanych przez sąd za pośrednictwem portalu informacyjnego – systemu teleinformatycznego umożliwiającego elektroniczną komunikację między sądem a profesjonalnymi uczestnikami postępowania oraz, w rozszerzonym zakresie przyszłej regulacji, także stronami. Paragraf 1 w brzmieniu obecnym przewiduje obligatoryjne doręczanie w ten sposób pism procesowych prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym oraz Prokuratorii Generalnej Rzeczypospolitej Polskiej, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie; w brzmieniu przyszłym krąg ten zostanie rozszerzony o stronę, która dokona wyboru takiego sposobu doręczania. Paragraf 1a reguluje sposób złożenia oświadczenia o wyborze albo rezygnacji z doręczeń przez portal informacyjny – następuje to za pośrednictwem samego portalu, z opatrzeniem kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, przy czym rezygnację dopuszczalne jest złożyć również w formie pisemnej, co ułatwia stronie wycofanie się z tego kanału komunikacji. Paragraf 2 warunkuje możliwość doręczenia w tym trybie dysponowaniem przez sąd pismem w postaci elektronicznej, wyłączając jednocześnie pisma podlegające doręczeniu wraz z odpisami (kopiami) pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały one złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3. Paragraf 3 określa chwilę doręczenia – co do zasady jest to czas wskazany w dokumencie potwierdzającym doręczenie, a w braku takiego dokumentu doręczenie uznaje się za skuteczne z upływem 14 dni od umieszczenia treści pisma w portalu; § 3a przewiduje analogiczny, 14-dniowy termin fikcji doręczenia dla podmiotu nieposiadającego konta w portalu informacyjnym. Paragraf 4 przyznaje przewodniczącemu kompetencję do zarządzenia odstąpienia od doręczenia przez portal informacyjny, jeżeli charakter pisma czyni taki sposób niemożliwym, w szczególności gdy zachodzi potrzeba wydania stronie uwierzytelnionego odpisu orzeczenia – co wskazuje na ograniczenia tego kanału w wypadkach wymagających wydania dokumentu w formie tradycyjnej. Paragraf 5 zawiera delegację ustawową dla Ministra Sprawiedliwości do określenia w rozporządzeniu trybu i sposobu doręczeń elektronicznych w postępowaniu karnym. Liczne przypisy urzędowe do tego artykułu wskazują na jego wieloetapową nowelizację, z częścią zmian już obowiązującą od 10 września 2025 r. i częścią wchodzącą w życie stopniowo do 1 czerwca 2026 r., co odzwierciedla etapowe wdrażanie cyfryzacji doręczeń sądowych.
 
@@ -344,13 +342,13 @@ Przepis dopuszcza w wypadkach niecierpiących zwłoki odformalizowany sposób wz
 
 **Brzmienie przepisu:**
 
-> Art. 138. § 1. Strona, a także osoba niebędąca stroną, której prawa zostały naruszone, nieprzebywająca w kraju ani w innym państwie członkowskim Unii Europejskiej, ma obowiązek wskazać adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej; w razie nieuczynienia tego pismo wysłane na ostatnio znany adres w kraju lub w innym państwie członkowskim Unii Europejskiej albo, jeżeli adresu tego nie ma, załączone do akt sprawy uważa się za doręczone.
+> Art. 138. § 1.⁽⁴⁷⁾ Strona, a także osoba niebędąca stroną, której prawa zostały naruszone, nieprzebywająca w kraju ani w innym państwie członkowskim Unii Europejskiej, ma obowiązek wskazać adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej; w razie nieuczynienia tego pismo wysłane na ostatnio znany adres w kraju lub w innym państwie członkowskim Unii Europejskiej albo, jeżeli adresu tego nie ma, załączone do akt sprawy uważa się za doręczone.
 >
-> § 2. Przepisu § 1 nie stosuje się, jeżeli strona, a także osoba niebędąca stroną, której prawa zostały naruszone, wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych.
+> § 2.⁽⁴⁸⁾ Przepisu § 1 nie stosuje się, jeżeli strona, a także osoba niebędąca stroną, której prawa zostały naruszone, wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych.
 
-*Odnośnik w tekście jednolitym:* Oznaczenie § 1 nadane przez art. 82 pkt 13 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 47) Oznaczenie § 1 nadane przez art. 82 pkt 13 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 13 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 48) Dodany przez art. 82 pkt 13 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza na stronę oraz osobę niebędącą stroną, której prawa zostały naruszone, obowiązek wskazania adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej, jeżeli osoba taka nie przebywa ani w kraju, ani w innym państwie członkowskim. Paragraf 1 (oznaczenie tego paragrafu zostało nadane nowelizacją wchodzącą w życie 1 października 2029 r., wcześniej przepis stanowił jednostkę nieoznaczoną numerem) przewiduje sankcję za niedopełnienie tego obowiązku – pismo wysłane na ostatnio znany adres w kraju lub innym państwie członkowskim Unii Europejskiej, a w razie braku takiego adresu – załączone jedynie do akt sprawy, uważa się za doręczone; jest to daleko idąca fikcja doręczenia, uzasadniona koniecznością zapewnienia możliwości prowadzenia postępowania wobec osób przebywających poza terytorium objętym możliwością efektywnego doręczenia tradycyjnego. Paragraf 2, dodany tą samą nowelizacją, wyłącza stosowanie tej sankcji, jeżeli osoba zobowiązana wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych – w takim wypadku doręczenia dokonuje się drogą elektroniczną niezależnie od miejsca faktycznego pobytu adresata, co czyni obowiązek wskazania adresata dla doręczeń tradycyjnych bezprzedmiotowym. Przepis ma istotne znaczenie praktyczne w sprawach z udziałem osób często zmieniających miejsce pobytu za granicą lub trwale mieszkających poza granicami kraju.
 
@@ -358,15 +356,15 @@ Przepis wprowadza na stronę oraz osobę niebędącą stroną, której prawa zos
 
 **Brzmienie przepisu:**
 
-> Art. 139. § 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone. Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego. Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej albo wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych i nie zawiadomiła organu o zmianie tego adresu lub o zaprzestaniu korzystania z niego. § 1a. Przepis § 1 stosuje się do pokrzywdzonego także wtedy, gdy nie jest stroną.
+> Art. 139. § 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone. Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego.⁽⁴⁹⁾ Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej albo wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych i nie zawiadomiła organu o zmianie tego adresu lub o zaprzestaniu korzystania z niego.⁽⁵⁰⁾ § 1a. Przepis § 1 stosuje się do pokrzywdzonego także wtedy, gdy nie jest stroną.
 >
 > § 2. (uchylony)
 >
 > § 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 50.
+*Odnośnik w tekście jednolitym* 49) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 50.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 14 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 50) Zdanie drugie w brzmieniu ustalonym przez art. 82 pkt 14 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje skutki niedopełnienia przez stronę obowiązku informowania organu procesowego o zmianie adresu. Paragraf 1 przewiduje, że jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem (w tym z powodu pozbawienia wolności w innej sprawie), pismo wysłane pod tym adresem uważa się za doręczone – analogiczna fikcja doręczenia dotyczy strony, która wybrała doręczanie na adres skrytki pocztowej albo wyraziła zgodę na doręczenia elektroniczne i nie zawiadomiła organu o zmianie lub zaprzestaniu korzystania z tego adresu. Paragraf 1a rozciąga tę regulację na pokrzywdzonego również wówczas, gdy nie jest on stroną postępowania, co ujednolica sytuację procesową pokrzywdzonych w zakresie obowiązków informacyjnych związanych z adresem do doręczeń. Paragraf 2 został uchylony. Paragraf 3 wprowadza istotne ograniczenie zastosowania § 1 – przepisu tego nie stosuje się do pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego, co chroni osobę uniewinnioną przed skutkami fikcji doręczenia w sytuacji, w której po zakończeniu postępowania mogła zasadnie uznać, że dalsze śledzenie korespondencji pod dotychczasowym adresem nie jest już konieczne. Przepis ma kluczowe znaczenie praktyczne dla ustalania skuteczności doręczeń w toku długotrwałych postępowań, w których strony często zmieniają miejsce zamieszkania.
 
@@ -374,9 +372,9 @@ Przepis reguluje skutki niedopełnienia przez stronę obowiązku informowania or
 
 **Brzmienie przepisu:**
 
-> Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.
+> Art. 140.⁽⁵¹⁾ Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 51) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
 
 Przepis rozszerza krąg podmiotów, którym doręcza się pisma procesowe przeznaczone dla stron, na ich przedstawicieli procesowych. W brzmieniu obowiązującym obecnie (do wejścia w życie zmiany wskazanej w przypisie urzędowym), jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom – zapewnia to profesjonalnym przedstawicielom strony bieżącą wiedzę o przebiegu postępowania, niezbędną do prawidłowego wykonywania funkcji obrończej lub reprezentacyjnej, niezależnie od tego, czy sama strona pismo otrzymała. Przepis ma charakter dyspozytywny – doręczenie przedstawicielowi nie następuje, jeżeli przepis szczególny wyłącza taki obowiązek lub reguluje kwestię doręczeń odmiennie.
 
@@ -384,9 +382,9 @@ Przepis rozszerza krąg podmiotów, którym doręcza się pisma procesowe przezn
 
 **Brzmienie przepisu:**
 
-> Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.
+> Art. 140.⁽⁵²⁾ Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 52) Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis stanowi przyszłe brzmienie art. 140, wchodzące w życie z dniem 1 października 2029 r. na mocy nowelizacji wskazanej w przypisie urzędowym. Zmiana ma charakter czysto terminologiczny i wynika z ogólnego przejścia w tekście ustawy od pojęcia „odpisu” (dokumentu papierowego, potwierdzonego za zgodność z oryginałem) do pojęcia „kopii” (odpowiadającego modelowi doręczeń elektronicznych opartemu na kopiach dokumentów zamieszczanych w systemie teleinformatycznym, o czym mowa np. w znowelizowanym art. 128 § 1) – w pozostałym zakresie norma pozostaje identyczna, nadal nakazując doręczanie obrońcom, pełnomocnikom i ustawowym przedstawicielom tych samych kategorii pism, które ustawa nakazuje doręczać stronom, o ile przepis szczególny nie stanowi inaczej.
 
@@ -394,9 +392,9 @@ Przepis stanowi przyszłe brzmienie art. 140, wchodzące w życie z dniem 1 paź
 
 **Brzmienie przepisu:**
 
-> Art. 141.Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.
+> Art. 141.⁽⁵³⁾Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 54.
+*Odnośnik w tekście jednolitym* 53) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 54.
 
 Przepis zawiera upoważnienie ustawowe dla Ministra Sprawiedliwości do wydania, w porozumieniu z ministrem właściwym do spraw łączności, rozporządzenia określającego szczegółowe zasady i tryb doręczania pism organów procesowych. Delegacja ta ma charakter techniczny i wykonawczy względem przepisów rozdziału 15, pozwalając na uregulowanie w akcie podustawowym kwestii organizacyjnych i proceduralnych niewymagających rangi ustawowej, przy czym ustawodawca wskazuje dyrektywy, którymi minister powinien się kierować przy wydawaniu rozporządzenia – konieczność zapewnienia sprawnego toku postępowania oraz właściwej realizacji gwarancji procesowych jego uczestników. W brzmieniu obowiązującym obecnie (do wejścia w życie zmiany wskazanej w przypisie urzędowym) delegacja obejmuje całość materii doręczeń pism organów procesowych bez wyłączeń.
 
@@ -404,9 +402,9 @@ Przepis zawiera upoważnienie ustawowe dla Ministra Sprawiedliwości do wydania,
 
 **Brzmienie przepisu:**
 
-> Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.
+> Art. 141.⁽⁵⁴⁾ Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 15 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 54) W brzmieniu ustalonym przez art. 82 pkt 15 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis stanowi przyszłe brzmienie art. 141, wchodzące w życie z dniem 1 października 2029 r. na mocy nowelizacji wskazanej w przypisie urzędowym. Jedyną zmianą merytoryczną w stosunku do brzmienia dotychczasowego jest wyłączenie z zakresu delegacji ustawowej doręczeń, o których mowa w art. 131 § 1 pkt 1 – a więc doręczeń dokonywanych na adres do doręczeń elektronicznych, których szczegółowy tryb i sposób regulują odrębne przepisy wykonawcze wydane na podstawie ustawy o doręczeniach elektronicznych, pozostające poza kompetencją prawodawczą przewidzianą w niniejszym artykule. Zmiana ta porządkuje relacje między rozporządzeniem wykonawczym do Kodeksu postępowania karnego a odrębnym reżimem regulacyjnym doręczeń elektronicznych, zapobiegając powielaniu lub kolizji regulacji podustawowych dotyczących tej samej materii.
 
@@ -544,17 +542,17 @@ Przepis określa obligatoryjną treść protokołu, stanowiąc podstawowy wzorze
 
 **Brzmienie przepisu:**
 
-> Art. 148a. § 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
+> Art. 148a. § 1.⁽⁵⁵⁾ W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
 >
-> § 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
+> § 1.⁽⁵⁶⁾ W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.
 >
 > § 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole.
 >
-> § 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
+> § 3.⁽⁵⁷⁾ Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
 >
-> § 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
+> § 3.⁽⁵⁸⁾ Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
 >
-> § 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+> § 4.⁽⁵⁷⁾ Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
 >
 > 1) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka są oskarżonemu znane;
 >
@@ -562,7 +560,7 @@ Przepis określa obligatoryjną treść protokołu, stanowiąc podstawowy wzorze
 >
 > 3) z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.
 >
-> § 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+> § 4.⁽⁵⁸⁾ Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
 >
 > 1) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka są oskarżonemu znane;
 >
@@ -572,17 +570,13 @@ Przepis określa obligatoryjną treść protokołu, stanowiąc podstawowy wzorze
 >
 > § 5. Sąd lub organ prowadzący postępowanie przygotowawcze może ujawnić w niezbędnym zakresie dane, o których mowa w § 1, lub oryginały dokumentów, o których mowa w § 3, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 56.
+*Odnośnik w tekście jednolitym* 55) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 56.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 16 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 56) W brzmieniu ustalonym przez art. 82 pkt 16 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 58.
+*Odnośnik w tekście jednolitym* 57) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 58.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 16 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
-
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 58.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 16 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 58) W brzmieniu ustalonym przez art. 82 pkt 16 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza szczególne zasady ochrony danych adresowych i kontaktowych pokrzywdzonych i świadków w dokumentacji procesowej, mające chronić te osoby przed niepożądanym ujawnieniem informacji o miejscu ich zamieszkania czy pracy. Paragraf 1 zakazuje zamieszczania w protokole danych o miejscu zamieszkania i pracy, numeru telefonu, telefaksu oraz adresu poczty elektronicznej (w wersji przyszłej rozszerzonych o adres do doręczeń elektronicznych) pokrzywdzonych i świadków uczestniczących w czynności – dane te umieszcza się w odrębnym załączniku adresowym do akt sprawy, dostępnym wyłącznie do wiadomości organu prowadzącego postępowanie, co ma zapobiec ich ujawnieniu np. oskarżonemu mającemu wgląd do akt na zasadach ogólnych. Paragraf 2 wprowadza wyjątek dla świadka będącego funkcjonariuszem publicznym składającym zeznania w związku z pełnioną funkcją – w takim wypadku jego miejsce pracy z zasady podlega ujawnieniu w protokole, chyba że organ prowadzący czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone. Paragraf 3 rozciąga ochronę danych adresowych na inne dokumenty niż protokół, w których dane te się znajdują – podlegają one w odpowiednim zakresie przechowaniu w załączniku adresowym, a do akt sprawy załącza się uwierzytelnione kserokopie z usuniętymi danymi wrażliwymi. Paragraf 4 przyznaje organowi prowadzącemu postępowanie kompetencję do zarządzenia odstąpienia od stosowania tych ograniczeń, w całości lub w części, w trzech wypadkach: gdy dane te są oskarżonemu już znane (pkt 1); gdy dotyczą one miejsca prowadzenia działalności gospodarczej i zostały przekazane do publicznej wiadomości we właściwym rejestrze lub ewidencji (pkt 2); oraz z powodu oczywistego braku potrzeby ich ochrony z uwagi na charakter sprawy (pkt 3) – katalog ten ma charakter wyjątku od zasady ochrony i podlega ścisłej wykładni. Paragraf 5 przyznaje sądowi lub organowi prowadzącemu postępowanie przygotowawcze kompetencję do ujawnienia chronionych danych lub oryginałów dokumentów w niezbędnym zakresie, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy, co stanowi wyważenie ochrony prywatności pokrzywdzonych i świadków z potrzebami prawidłowego wyrokowania.
 
@@ -698,23 +692,19 @@ Przepis reguluje szczególne zasady udostępniania danych i dokumentów przechow
 
 **Brzmienie przepisu:**
 
-> Art. 157. § 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.
+> Art. 157. § 1.⁽⁵⁹⁾ Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.
 >
-> § 1. Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.
+> § 1.⁽⁶⁰⁾ Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.
 >
-> § 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.
+> § 2.⁽⁵⁹⁾ W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.
 >
-> § 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.
+> § 2.⁽⁶⁰⁾ W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.
 >
 > § 3. Nie można odmówić stronie zezwolenia na sporządzenie odpisu protokołu czynności, w której strona uczestniczyła lub miała prawo uczestniczyć, jak również dokumentu pochodzącego od niej lub sporządzonego z jej udziałem.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 60.
+*Odnośnik w tekście jednolitym* 59) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 60.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 17 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
-
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 60.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 17 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 60) W brzmieniu ustalonym przez art. 82 pkt 17 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje prawo stron oraz innych osób bezpośrednio zainteresowanych do uzyskania odpisu (w brzmieniu przyszłym – kopii) orzeczeń wydanych w sprawie. Paragraf 1 przyznaje stronom oraz osobom, których orzeczenie (w wersji przyszłej – także podlegające zaskarżeniu zarządzenie) bezpośrednio dotyczy, prawo żądania nieodpłatnego wydania jednego uwierzytelnionego odpisu (kopii) każdego orzeczenia, wraz z uzasadnieniem, jeżeli zostało sporządzone – jest to podstawowa gwarancja umożliwiająca zapoznanie się z pełną treścią rozstrzygnięcia i jego motywami, niezbędna m.in. do sformułowania środka zaskarżenia. Paragraf 2 wprowadza wyjątek w sprawach, w których wyłączono jawność ze względu na ważny interes państwa – osobom uprawnionym wydaje się wówczas jedynie odpis (kopię) orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia, co stanowi ograniczenie uzasadnione koniecznością ochrony informacji niejawnych zawartych zazwyczaj w motywach takiego rozstrzygnięcia. Paragraf 3 zakazuje odmowy zezwolenia stronie na sporządzenie odpisu protokołu czynności, w której strona uczestniczyła lub miała prawo uczestniczyć, jak również dokumentu pochodzącego od niej lub sporządzonego z jej udziałem – norma ta chroni dostęp strony do dokumentacji dotyczącej czynności z jej bezpośrednim udziałem, niezależnie od ogólnych ograniczeń dostępu do akt przewidzianych w art. 156.
 

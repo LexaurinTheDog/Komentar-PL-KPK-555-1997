@@ -8,9 +8,9 @@
 
 **Brzmienie przepisu:**
 
-> Art. 518. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, do postępowania w trybie kasacji stosuje się odpowiednio przepisy działu IX, z wyjątkiem art. 428 § 3.
+> Art. 518.⁽⁷⁵⁾ Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, do postępowania w trybie kasacji stosuje się odpowiednio przepisy działu IX, z wyjątkiem art. 428 § 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 75) W brzmieniu ustalonym przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 12.
 
 Przepis otwiera rozdział 55, poświęcony kasacji, i pełni funkcję normy odsyłającej: nakazuje odpowiednie stosowanie do postępowania kasacyjnego przepisów działu IX, a więc ogólnej regulacji środków odwoławczych, w zakresie, w jakim rozdział 55 nie zawiera unormowania szczególnego. Takie rozwiązanie legislacyjne pozwala uniknąć powielania w przepisach o kasacji reguł już ustanowionych dla apelacji (np. dotyczących formy i treści środka zaskarżenia, sposobu wnoszenia pism procesowych czy zasad postępowania dowodowego przed sądem odwoławczym), przy jednoczesnym zachowaniu odrębności kasacji jako nadzwyczajnego środka zaskarżenia. Wyłączeniu z odpowiedniego stosowania podlega art. 428 § 3, co wynika z odmienności funkcji kasacji względem apelacji – kasacja nie jest zwykłym środkiem odwoławczym służącym do korekty każdego uchybienia, lecz środkiem nadzwyczajnym o ograniczonych podstawach (art. 523), stąd mechanizmy właściwe apelacji nie zawsze dają się przenieść na grunt postępowania kasacyjnego bez zastrzeżeń. Przypis urzędowy wskazuje, że aktualne brzmienie przepisu jest wynikiem nowelizacji, co ma znaczenie przy ustalaniu stanu prawnego właściwego dla oceny dopuszczalności i trybu wniesienia kasacji w sprawach wszczętych pod rządami wcześniejszego brzmienia.
 
@@ -64,7 +64,7 @@ Przepis wprowadza zasadę jednorazowości kasacji – ten sam uprawniony podmiot
 >
 > § 2. Kasację na korzyść można wnieść jedynie w razie skazania oskarżonego za przestępstwo lub przestępstwo skarbowe na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
 >
-> § 3. Kasację na niekorzyść można wnieść jedynie w razie uniewinnienia oskarżonego albo umorzenia postępowania.
+> § 3.⁽⁷⁶⁾ Kasację na niekorzyść można wnieść jedynie w razie uniewinnienia oskarżonego albo umorzenia postępowania.
 >
 > § 4. Ograniczenia przewidziane w § 2 i 3 nie dotyczą kasacji:
 >
@@ -72,7 +72,7 @@ Przepis wprowadza zasadę jednorazowości kasacji – ten sam uprawniony podmiot
 >
 > 2) w wypadku określonym w art. 521.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 8 lipca 2019 r. w zakresie, w jakim dopuszcza możliwość wniesienia kasacji na niekorzyść oskarżonego w razie umorzenia postępowania z powodu zastosowania aktu łaski przez Prezydenta Rzeczypospolitej Polskiej, na podstawie wyroku Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 8/17 (Dz. U. poz. 1255).
+*Odnośnik w tekście jednolitym* 76) Utracił moc z dniem 8 lipca 2019 r. w zakresie, w jakim dopuszcza możliwość wniesienia kasacji na niekorzyść oskarżonego w razie umorzenia postępowania z powodu zastosowania aktu łaski przez Prezydenta Rzeczypospolitej Polskiej, na podstawie wyroku Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 8/17 (Dz. U. poz. 1255).
 
 Przepis określa materialnoprawne podstawy kasacji i stanowi kluczową regulację ograniczającą dopuszczalność tego środka zaskarżenia. Paragraf 1 wprowadza zamknięty katalog podstaw kasacyjnych: bezwzględne przyczyny odwoławcze z art. 439 oraz inne rażące naruszenie prawa, o ile mogło ono mieć istotny wpływ na treść orzeczenia; wyraźnie wyłączona została możliwość wniesienia kasacji wyłącznie z powodu niewspółmierności kary, co odróżnia kasację od apelacji, w której zarzut rażącej niewspółmierności kary jest samodzielną podstawą odwoławczą. Paragraf 1a wprowadza wyjątek na rzecz Prokuratora Generalnego w sprawach o zbrodnie, znosząc wobec niego zakaz kasacji opartej wyłącznie na niewspółmierności kary – rozwiązanie to odzwierciedla szczególną rolę tego organu w ochronie interesu publicznego w sprawach o najcięższe przestępstwa. Paragrafy 2 i 3 wprowadzają dodatkowe ograniczenia w zależności od kierunku kasacji: kasacja na korzyść jest dopuszczalna tylko w razie skazania na bezwzględną karę pozbawienia wolności, kasacja na niekorzyść – tylko w razie uniewinnienia lub umorzenia postępowania. Paragraf 4 wyłącza te ograniczenia w wypadku uchybień z art. 439 oraz kasacji wnoszonej w trybie art. 521, co potwierdza szczególny, uprzywilejowany charakter kasacji nadzwyczajnej. Przypis urzędowy informuje o częściowej utracie mocy przepisu na skutek wyroku Trybunału Konstytucyjnego w zakresie dopuszczalności kasacji na niekorzyść oskarżonego w razie umorzenia postępowania z powodu zastosowania aktu łaski przez Prezydenta – w tym zakresie art. 523 nie może być już stosowany jako podstawa kasacji na niekorzyść.
 
@@ -144,9 +144,9 @@ Przepis wyłącza dopuszczalność środka odwoławczego wobec określonych rozs
 
 **Brzmienie przepisu:**
 
-> Art. 529. Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
+> Art. 529.⁽⁷⁷⁾ Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 8 lipca 2019 r. w zakresie, w jakim dopuszcza wniesienie i rozpoznanie kasacji na niekorzyść oskarżonego w sytuacji, gdy w kasacji zakwestionowano prawidłowość zastosowania aktu łaski przez Prezydenta Rzeczypospolitej, na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 76.
+*Odnośnik w tekście jednolitym* 77) Utracił moc z dniem 8 lipca 2019 r. w zakresie, w jakim dopuszcza wniesienie i rozpoznanie kasacji na niekorzyść oskarżonego w sytuacji, gdy w kasacji zakwestionowano prawidłowość zastosowania aktu łaski przez Prezydenta Rzeczypospolitej, na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 76.
 
 Przepis wskazuje okoliczności, które nie stanowią przeszkody dla wniesienia i rozpoznania kasacji wnoszonej na korzyść oskarżonego. Należą do nich: wykonanie kary, zatarcie skazania, akt łaski oraz okoliczności wyłączające ściganie lub uzasadniające zawieszenie postępowania. Rozwiązanie to ma istotne znaczenie gwarancyjne – umożliwia korektę wadliwego orzeczenia skazującego nawet wówczas, gdy formalnie ustały już przesłanki dalszego prowadzenia postępowania karnego przeciwko danej osobie, co ma szczególne znaczenie np. dla rehabilitacji oskarżonego lub jego bliskich, a także dla dochodzenia roszczeń odszkodowawczych przewidzianych w rozdziale 58. Przypis urzędowy informuje, że przepis częściowo utracił moc na podstawie wyroku Trybunału Konstytucyjnego w zakresie, w jakim dopuszczał wniesienie i rozpoznanie kasacji na niekorzyść oskarżonego w sytuacji, gdy kasacja kwestionowała prawidłowość zastosowania aktu łaski przez Prezydenta Rzeczypospolitej – w tym zakresie art. 529 nie może już stanowić podstawy działania na niekorzyść oskarżonego objętego prezydenckim aktem łaski.
 
@@ -826,11 +826,11 @@ Przepis nakłada na sąd obowiązek wymienienia w wyroku łącznym, w miarę pot
 
 > Art. 577a. Ilekroć w przepisach niniejszego działu jest mowa o:
 >
-> 1) postępowaniu europejskim – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającym wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 2017/1939”;
+> 1) postępowaniu europejskim – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającym wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm.⁽⁷⁹⁾), zwanym dalej „rozporządzeniem 2017/1939”;
 >
 > 2) postępowaniu krajowym – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora powszechnej jednostki organizacyjnej prokuratury.
 
-*Odnośnik w tekście jednolitym:* Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 431 z 21.12.2020, str. 1.
+*Odnośnik w tekście jednolitym* 79) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 431 z 21.12.2020, str. 1.
 
 Przepis otwiera dział XIIA, regulujący współpracę z Prokuraturą Europejską, i zawiera słowniczek pojęć ustawowych używanych w tym dziale. Punkt 1 definiuje „postępowanie europejskie” jako postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939, ustanawiającym tę instytucję w ramach wzmocnionej współpracy państw członkowskich Unii Europejskiej, dalej zwanym „rozporządzeniem 2017/1939”. Punkt 2 definiuje „postępowanie krajowe” jako postępowanie karne prowadzone lub nadzorowane przez prokuratora powszechnej jednostki organizacyjnej prokuratury, a więc prokuratury krajowej działającej poza strukturami Prokuratury Europejskiej. Rozróżnienie to ma fundamentalne znaczenie dla całego działu XIIA, gdyż wyznacza dwa odrębne, choć wzajemnie powiązane porządki proceduralne, między którymi kolejne przepisy regulują zasady koordynacji, przejmowania spraw i wykorzystywania dowodów. Przypis urzędowy wskazuje, że zmiany rozporządzenia 2017/1939 zostały ogłoszone w odrębnym akcie publikacyjnym Unii Europejskiej, co ma znaczenie dla ustalenia aktualnej treści odesłania unijnego.
 
@@ -902,11 +902,11 @@ Przepis otwiera dział XIII, regulujący postępowanie w sprawach karnych ze sto
 >
 > 2) osoby zrównane z nimi na podstawie umów lub powszechnie uznanych zwyczajów międzynarodowych.
 >
-> § 2. Kierownik urzędu konsularnego oraz inni urzędnicy konsularni państw obcych podlegają zatrzymaniu lub tymczasowemu aresztowaniu jedynie w razie zarzutu popełnienia zbrodni. O ich zatrzymaniu lub tymczasowym aresztowaniu zawiadamia się niezwłocznie Ministra Spraw Zagranicznych.
+> § 2. Kierownik urzędu konsularnego oraz inni urzędnicy konsularni państw obcych podlegają zatrzymaniu lub tymczasowemu aresztowaniu jedynie w razie zarzutu popełnienia zbrodni. O ich zatrzymaniu lub tymczasowym aresztowaniu zawiadamia się niezwłocznie Ministra Spraw Zagranicznych⁽⁸⁰⁾.
 >
 > § 3. Poza wypadkiem określonym w § 2 osoby te mogą być pozbawione wolności tylko w wykonaniu prawomocnego wyroku sądu polskiego.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw zagranicznych na podstawie art. 4 ust. 1, art. 5 pkt 27 i art. 32 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187), która weszła w życie z dniem 1 kwietnia 1999 r.
+*Odnośnik w tekście jednolitym* 80) Obecnie minister właściwy do spraw zagranicznych na podstawie art. 4 ust. 1, art. 5 pkt 27 i art. 32 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187), która weszła w życie z dniem 1 kwietnia 1999 r.
 
 Przepis reguluje węższy zakresowo immunitet konsularny, odróżniający się od pełnego immunitetu dyplomatycznego uregulowanego w art. 578. Paragraf 1 przewiduje, że kierownicy urzędów konsularnych i inni urzędnicy konsularni państw obcych (pkt 1) oraz osoby zrównane z nimi na podstawie umów lub zwyczajów międzynarodowych (pkt 2) nie podlegają orzecznictwu polskich sądów karnych w zakresie czynności pełnionych podczas i w związku z wykonywaniem ich funkcji urzędowych, a na zasadzie wzajemności – także w pozostałym zakresie; immunitet konsularny ma więc co do zasady charakter funkcjonalny, ograniczony do czynności urzędowych, chyba że zasada wzajemności rozszerza go dalej. Paragraf 2 wprowadza ograniczenie możliwości zatrzymania lub tymczasowego aresztowania kierownika urzędu konsularnego oraz innych urzędników konsularnych wyłącznie do wypadku zarzutu popełnienia zbrodni, z obowiązkiem niezwłocznego zawiadomienia o tym ministra właściwego do spraw zagranicznych. Paragraf 3 przewiduje, że poza tym wyjątkiem osoby te mogą być pozbawione wolności wyłącznie w wykonaniu prawomocnego wyroku sądu polskiego. Przypis urzędowy wyjaśnia, że organem właściwym w rozumieniu tego przepisu jest obecnie minister właściwy do spraw zagranicznych, wskazując podstawę prawną tej właściwości w ustawie o działach administracji rządowej.
 

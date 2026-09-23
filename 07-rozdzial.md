@@ -182,7 +182,7 @@ Przepis reguluje wygaśnięcie zabezpieczenia majątkowego z upływem czasu w ra
 
 > Art. 295. § 1. W razie popełnienia przestępstwa, o którym mowa w art. 291, Policja może dokonać tymczasowego zajęcia mienia ruchomego osoby podejrzanej, jeżeli zachodzi obawa usunięcia tego mienia.
 >
-> § 1a. W razie popełnienia przestępstwa, za które orzeka się przepadek pojazdu mechanicznego, o którym mowa w art. 44b § 1a Kodeksu karnego, Policja dokonuje tymczasowego zajęcia pojazdu mechanicznego prowadzonego przez sprawcę w czasie popełnienia tego przestępstwa.
+> § 1a.⁽⁶⁴⁾ W razie popełnienia przestępstwa, za które orzeka się przepadek pojazdu mechanicznego, o którym mowa w art. 44b § 1a Kodeksu karnego, Policja dokonuje tymczasowego zajęcia pojazdu mechanicznego prowadzonego przez sprawcę w czasie popełnienia tego przestępstwa.
 >
 > § 2. Przepisy art. 217–235 stosuje się odpowiednio.
 >
@@ -190,7 +190,7 @@ Przepis reguluje wygaśnięcie zabezpieczenia majątkowego z upływem czasu w ra
 >
 > § 4. Tymczasowe zajęcie upada, jeżeli w ciągu 7 dni od daty jego dokonania nie zostanie wydane postanowienie o zabezpieczeniu majątkowym.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 3 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), która weszła w życie z dniem 29 stycznia 2026 r.
+*Odnośnik w tekście jednolitym* 64) W brzmieniu ustalonym przez art. 3 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), która weszła w życie z dniem 29 stycznia 2026 r.
 
 Przepis wprowadza instytucję tymczasowego zajęcia mienia – środka o charakterze doraźnym, wyprzedzającym formalne postanowienie o zabezpieczeniu majątkowym, stosowanego przez Policję w sytuacjach niecierpiących zwłoki. Paragraf 1 przewiduje fakultatywne tymczasowe zajęcie mienia ruchomego osoby podejrzanej w razie popełnienia przestępstwa, o którym mowa w art. 291, jeżeli zachodzi obawa usunięcia tego mienia. Paragraf 1a wprowadza natomiast zajęcie obligatoryjne – dotyczące pojazdu mechanicznego prowadzonego przez sprawcę w chwili popełnienia przestępstwa, za które orzeka się przepadek pojazdu na podstawie art. 44b § 1a Kodeksu karnego; zgodnie z załączonym przypisem urzędowym przepis ten w aktualnym brzmieniu obowiązuje od 29 stycznia 2026 r., na skutek nowelizacji dokonanej ustawą z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego, co odzwierciedla intensyfikację środków represji wobec sprawców najpoważniejszych przestępstw drogowych (przede wszystkim prowadzenia pojazdu w stanie nietrzeźwości). Paragraf 2 nakazuje odpowiednie stosowanie przepisów art. 217–235, a więc reguł dotyczących zatrzymania rzeczy i przeszukania, co zapewnia spójność proceduralną z ogólnym reżimem czynności dowodowych. Paragraf 3 wyłącza możliwość tymczasowego zajęcia przedmiotów niepodlegających egzekucji, chroniąc minimum egzystencjalne osoby podejrzanej. Paragraf 4 określa 7-dniowy termin, po upływie którego tymczasowe zajęcie upada, jeżeli w tym czasie nie wydano postanowienia o zabezpieczeniu majątkowym – rozwiązanie to podkreśla tymczasowy, prowizoryczny charakter tego środka i wymusza szybkie sformalizowanie zabezpieczenia przez właściwy organ.
 
@@ -254,13 +254,13 @@ Przepis określa krąg podmiotów mających status strony w postępowaniu przygo
 
 > Art. 299a. § 1. Podczas czynności z udziałem pokrzywdzonego w postępowaniu przygotowawczym może być obecna osoba przez niego wskazana, jeżeli nie uniemożliwia to przeprowadzenia czynności albo nie utrudnia jej w istotny sposób.
 >
-> § 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.
+> § 2.⁽⁵¹⁾ Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.
 >
-> § 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z kopią prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.
+> § 2.⁽⁵²⁾ Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z kopią prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 51) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 52) Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza uprawnienia proceduralne pokrzywdzonego związane z jego udziałem w czynnościach postępowania przygotowawczego oraz z informowaniem go o wyniku sprawy. Paragraf 1 przyznaje pokrzywdzonemu prawo do obecności podczas czynności z jego udziałem osoby przez niego wskazanej (np. osoby bliskiej, psychologa), o ile nie uniemożliwia to przeprowadzenia czynności ani nie utrudnia jej w istotny sposób – rozwiązanie to ma na celu zmniejszenie wtórnej wiktymizacji pokrzywdzonego, przy zachowaniu równowagi z potrzebą niezakłóconego przebiegu czynności procesowej. Paragraf 2 występuje w tekście jednolitym w dwóch brzmieniach opatrzonych przypisami urzędowymi: brzmienie aktualnie obowiązujące przewiduje, że na wniosek pokrzywdzonego sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, faksem lub pocztą elektroniczną, wraz z odpisem prawomocnego orzeczenia kończącego postępowanie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej; brzmienie drugie, które wejdzie w życie z dniem 1 października 2029 r. na mocy nowelizacji wskazanej w odnośniku 6, zastępuje pojęcie „odpisu” pojęciem „kopii” prawomocnego orzeczenia – zmiana ta wynika z szerszej reformy terminologii dokumentów procesowych związanej z postępującą cyfryzacją doręczeń i ma charakter dostosowujący, a nie zmieniający istotę uprawnienia pokrzywdzonego do uzyskania informacji o wyniku sprawy.
 
@@ -298,9 +298,9 @@ Przepis stanowi centralną regulację obowiązków informacyjnych organu prowadz
 
 **Brzmienie przepisu:**
 
-> Art. 300a. Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.
+> Art. 300a.⁽⁶⁵⁾ Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 18 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 65) Dodany przez art. 82 pkt 18 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza obowiązek odebrania od podejrzanego, pokrzywdzonego lub świadka, przed ich pierwszym przesłuchaniem, oświadczenia o wyrażeniu zgody (albo jej braku) na dokonywanie doręczeń na adres do doręczeń elektronicznych, wraz ze wskazaniem tego adresu; oświadczenie odbiera się na piśmie albo zamieszcza w protokole przesłuchania, a osobę składającą je należy uprzednio pouczyć o skutkach procesowych wyrażenia zgody albo jej braku. Zgodnie z przypisem urzędowym przepis ten został dodany na mocy nowelizacji wskazanej w odnośniku 6 i wejdzie w życie dopiero z dniem 1 października 2029 r. – nie stanowi więc obecnie obowiązującego prawa, lecz jest elementem szerszej, rozłożonej w czasie reformy doręczeń elektronicznych w postępowaniu karnym, mającej ujednolicić i przyspieszyć komunikację między organami procesowymi a uczestnikami postępowania poprzez wykorzystanie elektronicznych skrzynek doręczeń.
 
@@ -328,9 +328,9 @@ Przepis reguluje zaskarżalność czynności podejmowanych w postępowaniu przyg
 
 **Brzmienie przepisu:**
 
-> Art. 302a. Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
+> Art. 302a.⁽⁶⁶⁾ Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 19 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 66) Dodany przez art. 82 pkt 19 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis nakazuje odpowiednie stosowanie art. 100a (dotyczącego elektronicznej formy pism procesowych) do aktu oskarżenia, wniosku o wydanie wyroku skazującego bez rozprawy, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania oraz wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i zastosowanie środka zabezpieczającego. Zgodnie z przypisem urzędowym przepis ten został dodany nowelizacją wskazaną w odnośniku 6 i – analogicznie do art. 300a – wejdzie w życie z dniem 1 października 2029 r., stanowiąc kolejny element planowanej reformy informatyzacji obrotu pismami procesowymi w postępowaniu karnym, obecnie jeszcze nieobowiązujący.
 

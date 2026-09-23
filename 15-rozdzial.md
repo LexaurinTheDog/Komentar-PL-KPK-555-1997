@@ -526,15 +526,15 @@ Przepis reguluje procedurę sądową rozpoznania sprawy wykonania orzeczenia o k
 >
 > § 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia.
 >
-> § 5. Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.
+> § 5.⁽⁵¹⁾ Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.
 >
-> § 5. Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.
+> § 5.⁽⁵²⁾ Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.
 >
 > § 6. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
+*Odnośnik w tekście jednolitym* 51) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 52.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 52) Ze zmianą wprowadzoną przez art. 82 pkt 1 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza ramy czasowe dla postępowania w przedmiocie wykonania orzeczenia o karze pozbawienia wolności, co odróżnia ten reżim od postępowań dotyczących przepadku, nieprzewidujących sztywnych terminów ustawowych. § 1 wyznacza sądowi termin 40 dni od otrzymania orzeczenia wraz z zaświadczeniem na wydanie postanowienia w przedmiocie jego wykonania. § 2 przyznaje stronom prawo zażalenia na to postanowienie. § 3 wprowadza dodatkowy, dłuższy termin instrukcyjny – całe postępowanie powinno zakończyć się prawomocnie w ciągu 90 dni od otrzymania orzeczenia wraz z zaświadczeniem, co uwzględnia czas potrzebny na ewentualne rozpoznanie zażalenia. § 4 nakłada obowiązek zawiadomienia organu państwa wydania orzeczenia w razie niemożności dotrzymania terminu z § 3, z podaniem przyczyny opóźnienia oraz przewidywanego terminu wydania orzeczenia – co realizuje zasadę lojalnej i transparentnej współpracy sądowej mimo przekroczenia terminu instrukcyjnego. § 5 zawiera w tekście jednolitym dwie wersje przepisu, opatrzone przypisami urzędowymi: w brzmieniu obecnie obowiązującym odpis postanowienia przekazuje się Ministrowi Sprawiedliwości; brzmienie to obowiązuje do wejścia w życie zmiany wprowadzonej art. 82 pkt 1 ustawy nowelizującej, która wejdzie w życie z dniem 1 października 2029 r., a która zastąpi obowiązek przekazania „odpisu” (a więc dokumentu poświadczonego za zgodność z oryginałem) obowiązkiem przekazania zwykłej „kopii” postanowienia – zmiana o charakterze technicznym, odzwierciedlająca postępujące odformalizowanie i cyfryzację obiegu dokumentów sądowych w relacjach z Ministrem Sprawiedliwości, niezmieniająca zresztą samego adresata ani celu tego obowiązku informacyjnego. § 6 nakłada na sąd obowiązek niezwłocznego przystąpienia do wykonania orzeczenia właściwego organu państwa wydania orzeczenia, analogicznie do art. 611fu § 3.
 

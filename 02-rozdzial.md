@@ -284,11 +284,11 @@ Przepis określa zakres umocowania obrońcy oraz szczególne obowiązki wynikaj�
 
 > Art. 85. § 1. Obrońca może bronić kilku oskarżonych, jeżeli ich interesy nie pozostają w sprzeczności.
 >
-> § 2. Stwierdzając sprzeczność sąd wydaje postanowienie, zakreślając oskarżonym termin do ustanowienia innych obrońców. W wypadku obrony z urzędu sąd wyznacza innego obrońcę. Na postanowienie przysługuje zażalenie.
+> § 2.⁽⁷⁾ Stwierdzając sprzeczność sąd wydaje postanowienie, zakreślając oskarżonym termin do ustanowienia innych obrońców. W wypadku obrony z urzędu sąd wyznacza innego obrońcę. Na postanowienie przysługuje zażalenie.
 >
 > § 3. W postępowaniu przygotowawczym uprawnienia sądu określone w § 2 przysługują prezesowi sądu właściwego do rozpoznania sprawy.
 
-*Odnośnik w tekście jednolitym:* Uznany za niezgodny z Konstytucją z dniem 6 maja 2022 r. w związku z art. 85 § 3 w zakresie, w jakim nie przewidują możliwości wniesienia zażalenia na zarządzenie prezesa sądu, w którym stwierdza się, że interesy kilku podejrzanych, reprezentowanych przez tego samego obrońcę, nie pozostają w sprzeczności, na podstawie wyroku Trybunału Konstytucyjnego z dnia 27 kwietnia 2022 r. sygn. akt SK 53/20 (Dz. U. poz. 958).
+*Odnośnik w tekście jednolitym* 7) Uznany za niezgodny z Konstytucją z dniem 6 maja 2022 r. w związku z art. 85 § 3 w zakresie, w jakim nie przewidują możliwości wniesienia zażalenia na zarządzenie prezesa sądu, w którym stwierdza się, że interesy kilku podejrzanych, reprezentowanych przez tego samego obrońcę, nie pozostają w sprzeczności, na podstawie wyroku Trybunału Konstytucyjnego z dnia 27 kwietnia 2022 r. sygn. akt SK 53/20 (Dz. U. poz. 958).
 
 Przepis reguluje kwestię obrony kilku oskarżonych przez jednego obrońcę i mechanizm usuwania kolizji interesów, która mogłaby zagrażać rzetelności obrony każdego z nich. Paragraf 1 dopuszcza taką obronę wspólną wyłącznie pod warunkiem, że interesy oskarżonych nie pozostają ze sobą w sprzeczności – sprzeczność interesów zachodzi w szczególności wtedy, gdy obrona jednego oskarżonego wymagałaby obciążenia drugiego lub gdy linie obrony wzajemnie się wykluczają. Paragraf 2 określa skutki stwierdzenia takiej sprzeczności przez sąd – wydanie postanowienia zakreślającego oskarżonym termin do ustanowienia innych obrońców, a w wypadku obrony z urzędu – wyznaczenie przez sąd innego obrońcy z urzędu; na postanowienie to przysługuje zażalenie. Paragraf 3 przenosi analogiczne uprawnienia na etap postępowania przygotowawczego, przyznając je prezesowi sądu właściwego do rozpoznania sprawy zamiast prokuratorowi prowadzącemu postępowanie, co ma zapewnić kontrolę sądową nad tak istotną kwestią jak zapewnienie bezkolizyjnej obrony już na etapie przygotowawczym. Zamieszczony przy artykule przypis urzędowy informuje, że w zakresie art. 85 § 3 przepis został uznany za niezgodny z Konstytucją z dniem 6 maja 2022 r. w związku z wyrokiem Trybunału Konstytucyjnego z dnia 27 kwietnia 2022 r., sygn. akt SK 53/20 (Dz. U. poz. 958), w zakresie, w jakim nie przewiduje możliwości wniesienia zażalenia na zarządzenie prezesa sądu, w którym stwierdza się, że interesy kilku podejrzanych reprezentowanych przez tego samego obrońcę nie pozostają w sprzeczności; oznacza to lukę w gwarancjach odwoławczych, dotychczas niewypełnioną wyraźną nowelizacją tekstu przepisu, na co należy zwracać uwagę przy jego stosowaniu w praktyce.
 
@@ -590,9 +590,9 @@ Przepis kompleksowo reguluje sposób ogłaszania i doręczania orzeczeń oraz za
 
 **Brzmienie przepisu:**
 
-> Art. 100a. Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.
+> Art. 100a.⁽⁸⁾ Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 2 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 8) Dodany przez art. 82 pkt 2 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis wprowadza obowiązek niezwłocznego zamieszczania w systemie teleinformatycznym kopii każdego wydanego orzeczenia albo podlegającego zaskarżeniu zarządzenia, opatrzonej unikalnym oznaczeniem identyfikującym. Rozwiązanie to stanowi element informatyzacji obiegu dokumentów sądowych, mające służyć weryfikacji autentyczności i integralności dokumentacji procesowej. Zgodnie z zamieszczonym przy artykule przypisem urzędowym, przepis został dodany na podstawie art. 82 pkt 2 ustawy nowelizującej i wejdzie w życie dopiero z dniem 1 października 2029 r., a więc na dzień powstania niniejszego komentarza nie obowiązuje jeszcze i stanowi zapowiedź przyszłej zmiany systemowej w zakresie cyfryzacji postępowania karnego, powiązanej z systemem teleinformatycznym opisanym szczegółowo w art. 100b.
 
@@ -600,7 +600,7 @@ Przepis wprowadza obowiązek niezwłocznego zamieszczania w systemie teleinforma
 
 **Brzmienie przepisu:**
 
-> Art. 100b. § 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.
+> Art. 100b.⁽⁹⁾ § 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.
 >
 > § 2. W systemie teleinformatycznym, o którym mowa w art. 100a, gromadzi się kopie:
 >
@@ -614,7 +614,7 @@ Przepis wprowadza obowiązek niezwłocznego zamieszczania w systemie teleinforma
 >
 > § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 2 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2028 r.
+*Odnośnik w tekście jednolitym* 9) Dodany przez art. 82 pkt 2 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2028 r.
 
 Przepis rozwija regulację systemu teleinformatycznego zapowiedzianego w art. 100a, określając jego organizację i funkcje. Paragraf 1 wskazuje Ministra Sprawiedliwości jako podmiot prowadzący system, z możliwością powierzenia realizacji zadań związanych z jego prowadzeniem – w całości lub w części – jednostce organizacyjnej podległej lub nadzorowanej przez ministra albo Prokuratorowi Krajowemu. Paragraf 2 określa zakres dokumentów gromadzonych w systemie – kopie orzeczeń i podlegających zaskarżeniu zarządzeń (pkt 1) oraz kopie aktów oskarżenia, wniosków o wydanie wyroku skazującego, wniosków o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosków o warunkowe umorzenie postępowania oraz wniosków o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego (pkt 2) – a więc kluczowych dokumentów inicjujących i kończących różne tryby postępowania sądowego. Paragraf 3 określa funkcję systemu – służy on weryfikacji treści i autentyczności kopii wymienionych dokumentów, co ma przeciwdziałać fałszerstwom i ułatwiać kontrolę zgodności odpisów z oryginałami. Paragraf 4 wskazuje Ministra Sprawiedliwości jako administratora systemu teleinformatycznego. Paragraf 5 zawiera obszerną delegację ustawową do uregulowania w rozporządzeniu struktury systemu, jego minimalnej funkcjonalności, warunków organizacyjno-technicznych gromadzenia i pobierania danych oraz sposobu opatrywania kopii unikalnym oznaczeniem identyfikującym, z możliwością określenia podmiotu, któremu powierza się realizację zadań związanych z prowadzeniem systemu, oraz zakresu powierzonych zadań, przy uwzględnieniu powszechnej dostępności danych, sprawności wprowadzania danych, ich kompletności i prawidłowości oraz zabezpieczenia przed nieuprawnionym dostępem. Zgodnie z przypisem urzędowym przepis został dodany przez art. 82 pkt 2 ustawy nowelizującej i wejdzie w życie z dniem 1 października 2028 r., a więc – podobnie jak art. 100a, choć z wcześniejszą datą wejścia w życie – nie obowiązuje jeszcze na dzień sporządzenia niniejszego komentarza; różnica dat wejścia w życie (2028 r. dla ram organizacyjnych systemu z art. 100b i 2029 r. dla samego obowiązku zamieszczania kopii z art. 100a) wskazuje na etapowe wdrażanie tej reformy, w którym najpierw ma powstać infrastruktura systemu, a dopiero rok później zacznie obowiązywać powszechny obowiązek zasilania go dokumentami.
 
@@ -752,9 +752,9 @@ Przepis reguluje zasady podpisywania uzasadnienia orzeczenia, różnicując wym�
 
 **Brzmienie przepisu:**
 
-> Art. 116. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać wnioski i inne oświadczenia na piśmie albo ustnie do protokołu.
+> Art. 116.⁽¹⁰⁾ Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać wnioski i inne oświadczenia na piśmie albo ustnie do protokołu.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 10) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 11.
 
 Przepis w brzmieniu obecnie obowiązującym reguluje formę, w jakiej strony i inni uprawnieni mogą składać wnioski i inne oświadczenia w toku czynności procesowej – na piśmie albo ustnie do protokołu, chyba że ustawa stanowi inaczej. Norma ta ma charakter porządkujący, zapewniając elastyczność co do sposobu komunikowania stanowiska procesowego przy jednoczesnym wymogu jego utrwalenia w jednej z dwóch przewidzianych form. Zgodnie z zamieszczonym przy artykule przypisem urzędowym przepis w tym brzmieniu obowiązuje jedynie do wejścia w życie zmiany opisanej w kolejnej jednostce redakcyjnej – art. 116 (wersja 2) – co odzwierciedla przyjętą w tekście jednolitym technikę prezentowania dwóch następujących po sobie w czasie brzmień tego samego przepisu.
 
@@ -762,13 +762,13 @@ Przepis w brzmieniu obecnie obowiązującym reguluje formę, w jakiej strony i i
 
 **Brzmienie przepisu:**
 
-> Art. 116. § 1. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać oświadczenia, w tym wnioski, na piśmie albo ustnie do protokołu. Za oświadczenie złożone na piśmie uważa się również oświadczenie złożone elektronicznie.
+> Art. 116.⁽¹¹⁾ § 1. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać oświadczenia, w tym wnioski, na piśmie albo ustnie do protokołu. Za oświadczenie złożone na piśmie uważa się również oświadczenie złożone elektronicznie.
 >
 > § 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 >
 > § 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 3 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 11) W brzmieniu ustalonym przez art. 82 pkt 3 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis w tym brzmieniu stanowi przyszłą wersję art. 116, która wejdzie w życie z dniem 1 października 2029 r. na podstawie art. 82 pkt 3 ustawy nowelizującej, wskazanej w odnośniku 6 tekstu jednolitego. W porównaniu z brzmieniem obecnie obowiązującym nowa regulacja wprowadza istotną zmianę systemową – dopuszczenie składania oświadczeń procesowych, w tym wniosków, w formie elektronicznej, traktowanej na równi z formą pisemną. Paragraf 1 zachowuje dotychczasową zasadę składania oświadczeń na piśmie albo ustnie do protokołu, dodając zdanie wprost zrównujące oświadczenie złożone elektronicznie z oświadczeniem pisemnym. Paragraf 2 określa wymogi formalne oświadczenia elektronicznego – musi być opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysłane na adres do doręczeń elektronicznych w rozumieniu ustawy o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy – rozwiązanie to wpisuje się w szerszy, ogólnopaństwowy system e-doręczeń, którego elementem staje się także komunikacja procesowa w sprawach karnych. Paragraf 3 nakazuje włączenie oświadczenia złożonego elektronicznie do akt sprawy, analogicznie jak dokumentu papierowego. Przepis ten należy odczytywać łącznie z art. 119, w którym analogiczna reforma elektronizacji obiegu pism procesowych wejdzie w życie z tą samą datą.
 
@@ -776,13 +776,13 @@ Przepis w tym brzmieniu stanowi przyszłą wersję art. 116, która wejdzie w ż
 
 **Brzmienie przepisu:**
 
-> Art. 116a. § 1. Jeżeli przepis ustawy tak stanowi, pisma można wnosić przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm.), zwanym dalej „portalem informacyjnym”, w sposób, który umożliwia wnoszącemu pismo uzyskanie dokumentu elektronicznego potwierdzającego wniesienie pisma do sądu.
+> Art. 116a.⁽¹²⁾ § 1. Jeżeli przepis ustawy tak stanowi, pisma można wnosić przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm.⁽¹³⁾), zwanym dalej „portalem informacyjnym”, w sposób, który umożliwia wnoszącemu pismo uzyskanie dokumentu elektronicznego potwierdzającego wniesienie pisma do sądu.
 >
 > § 2. Pisma wnoszone za pośrednictwem portalu informacyjnego włącza się do akt sprawy.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1178), która weszła w życie z dniem 1 marca 2026 r.
+*Odnośnik w tekście jednolitym* 12) Dodany przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1178), która weszła w życie z dniem 1 marca 2026 r.
 
-*Odnośnik w tekście jednolitym:* Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26.
+*Odnośnik w tekście jednolitym* 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26.
 
 Przepis wprowadza możliwość wnoszenia pism za pośrednictwem portalu informacyjnego, o którym mowa w art. 53e § 1 ustawy – Prawo o ustroju sądów powszechnych – rozwiązanie to, w odróżnieniu od art. 116 (wersja 2) i art. 100a/100b, już obowiązuje, gdyż zostało wprowadzone ustawą nowelizującą, która weszła w życie z dniem 1 marca 2026 r. Paragraf 1 uzależnia dopuszczalność wnoszenia pism tą drogą od wyraźnego przepisu ustawy przewidującego taką możliwość, precyzując, że musi to nastąpić w sposób umożliwiający wnoszącemu uzyskanie dokumentu elektronicznego potwierdzającego wniesienie pisma do sądu – wymóg ten zabezpiecza interesy wnoszącego pismo, dając mu dowód dochowania terminu procesowego. Paragraf 2 nakazuje włączenie pism wnoszonych za pośrednictwem portalu informacyjnego do akt sprawy. Zamieszczone przypisy urzędowe wskazują, że przepis został dodany przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1178), która weszła w życie z dniem 1 marca 2026 r., a zmiany tekstu jednolitego tej ustawy zostały ogłoszone w kolejnych pozycjach Dziennika Ustaw z lat 2024–2026, co dokumentuje historię legislacyjną tego stosunkowo nowego rozwiązania i jego powiązanie z dalszym postępem elektronizacji postępowania karnego, którego kolejne etapy przewidziano w art. 100a, art. 100b oraz art. 116 (wersja 2).
 
@@ -836,13 +836,13 @@ Przepis reguluje zasady oceny treści i znaczenia czynności procesowej, w tym �
 >
 > 1) oznaczenie organu, do którego jest skierowane, oraz sprawy, której dotyczy;
 >
-> 2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;
+> 2)⁽¹⁴⁾ oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;
 >
-> 2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie:
+> 2)⁽¹⁵⁾ oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie:
 >
 > a) oświadczenie wnoszącego pismo będącego podmiotem niepublicznym, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych, wraz ze wskazaniem tego adresu albo braku takiej zgody, chyba że takie oświadczenie już zostało przez niego w tym postępowaniu złożone, b) numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;
 >
-> 2a) numer wpisu na właściwą listę adwokatów lub radców prawnych – w przypadku obrońcy lub pełnomocnika będącego adwokatem lub radcą prawnym;
+> 2a)⁽¹⁶⁾ numer wpisu na właściwą listę adwokatów lub radców prawnych – w przypadku obrońcy lub pełnomocnika będącego adwokatem lub radcą prawnym;
 >
 > 3) treść wniosku lub oświadczenia, w miarę potrzeby z uzasadnieniem;
 >
@@ -850,19 +850,17 @@ Przepis reguluje zasady oceny treści i znaczenia czynności procesowej, w tym �
 >
 > § 2. Za osobę, która nie może się podpisać, pismo podpisuje osoba przez nią upoważniona, ze wskazaniem przyczyny złożenia swego podpisu.
 >
-> § 3. Pismo procesowe wniesione za pośrednictwem portalu informacyjnego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury.
+> § 3.⁽¹⁷⁾ Pismo procesowe wniesione za pośrednictwem portalu informacyjnego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury.
 >
-> § 4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego, mając na względzie skuteczność ich wnoszenia, konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma.
+> § 4.⁽¹⁷⁾ Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego, mając na względzie skuteczność ich wnoszenia, konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15.
+*Odnośnik w tekście jednolitym* 14) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 4 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 15) W brzmieniu ustalonym przez art. 82 pkt 4 ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 16) Dodany przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 12.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 12.
-
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 17) Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 12.
 
 Przepis określa obligatoryjne elementy formalne pisma procesowego, przy czym jego treść obejmuje jednocześnie brzmienie obecnie obowiązujące oraz brzmienie przyszłe, które wejdzie w życie w związku z dalszym postępem elektronizacji postępowania karnego – analogicznie jak w wypadku art. 116. Paragraf 1 w brzmieniu obecnie obowiązującym wymienia: oznaczenie organu, do którego pismo jest skierowane, oraz sprawy, której dotyczy (pkt 1); oznaczenie oraz adres wnoszącego pismo, a w pierwszym piśmie złożonym w sprawie – dodatkowo numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu (pkt 2); numer wpisu na właściwą listę adwokatów lub radców prawnych w wypadku obrońcy lub pełnomocnika będącego adwokatem lub radcą prawnym (pkt 2a) – element ten został już dodany nowelizacją, która weszła w życie 1 marca 2026 r.; treść wniosku lub oświadczenia, w miarę potrzeby z uzasadnieniem (pkt 3); oraz datę i podpis składającego pismo (pkt 4). W brzmieniu, które wejdzie w życie z dniem 1 października 2029 r. na podstawie art. 82 pkt 4 ustawy nowelizującej, punkt 2 zostanie rozbudowany o dodatkowy wymóg związany z systemem e-doręczeń: pismo powinno wówczas zawierać oświadczenie wnoszącego pismo będącego podmiotem niepublicznym w rozumieniu art. 2 pkt 5 ustawy o doręczeniach elektronicznych o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz ze wskazaniem tego adresu, albo o braku takiej zgody, chyba że takie oświadczenie zostało już złożone w danym postępowaniu (lit. a), a nadto – tak jak dotychczas – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu (lit. b); ta rozbudowana wersja punktu 2 zastąpi jego obecne, prostsze brzmienie. Paragraf 2 reguluje sposób podpisania pisma przez osobę, która nie może się podpisać – w jej imieniu podpisuje pismo osoba przez nią upoważniona, ze wskazaniem przyczyny złożenia swojego podpisu. Paragraf 3 określa wymogi formalne pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego – musi być opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w wypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury; przepis ten koresponduje z możliwością wnoszenia pism za pośrednictwem portalu informacyjnego, wprowadzoną już obowiązującym art. 116a. Paragraf 4 zawiera delegację ustawową dla Ministra Sprawiedliwości, działającego w porozumieniu z ministrem właściwym do spraw informatyzacji, do określenia w rozporządzeniu trybu i sposobu wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego, z uwzględnieniem skuteczności ich wnoszenia, konieczności zapewnienia sprawnego toku postępowania oraz ochrony praw osób wnoszących pisma. Zamieszczone przy artykule przypisy urzędowe potwierdzają opisaną wyżej dwuetapowość regulacji – obecne brzmienie punktu 2 obowiązuje do wejścia w życie zmiany wprowadzającej jego nowe brzmienie od 1 października 2029 r., natomiast punkt 2a został dodany już wcześniejszą nowelizacją (ustawą z 9 lipca 2025 r., o której mowa także przy art. 116a), a jego poszczególne litery a i b w ramach nowego brzmienia punktu 2 zostały dodane tą samą nowelizacją równolegle do przyszłej zmiany z 2029 r.
 
@@ -870,9 +868,9 @@ Przepis określa obligatoryjne elementy formalne pisma procesowego, przy czym je
 
 **Brzmienie przepisu:**
 
-> Art. 119a. Dokumenty dołączane do pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego obrońca lub pełnomocnik będący adwokatem, radcą prawnym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej opatrują kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Strona, która powołuje się w piśmie na dokument, jest obowiązana na żądanie sądu lub strony przeciwnej złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
+> Art. 119a.⁽¹⁸⁾ Dokumenty dołączane do pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego obrońca lub pełnomocnik będący adwokatem, radcą prawnym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej opatrują kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Strona, która powołuje się w piśmie na dokument, jest obowiązana na żądanie sądu lub strony przeciwnej złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 18) Dodany przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 12.
 
 Przepis reguluje formę, w jakiej dokumenty dołączane do pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego powinny zostać opatrzone przez profesjonalnego pełnomocnika procesowego. Zgodnie z jego treścią obrońca lub pełnomocnik będący adwokatem, radcą prawnym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej opatruje takie dokumenty kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym – wymóg ten zapewnia autentyczność i integralność załączników przekazywanych drogą elektroniczną. Zdanie drugie wprowadza mechanizm kontrolny wobec dokumentów powoływanych w piśmie – strona, która powołuje się w piśmie na dokument, jest obowiązana na żądanie sądu lub strony przeciwnej złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą, co pozwala zweryfikować zgodność elektronicznej kopii z oryginałem i przeciwdziała ewentualnym nadużyciom związanym z cyfrowym obiegiem dokumentów. Przepis został dodany przez art. 1 pkt 3 ustawy z dnia 9 lipca 2025 r., o której mowa przy art. 116a, i obowiązuje od 1 marca 2026 r.
 
@@ -880,23 +878,23 @@ Przepis reguluje formę, w jakiej dokumenty dołączane do pisma procesowego wno
 
 **Brzmienie przepisu:**
 
-> Art. 120. § 1. Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.
+> Art. 120. § 1.⁽¹⁹⁾ Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.
 >
-> § 1. Jeżeli:
+> § 1.⁽²⁰⁾ Jeżeli:
 >
 > 1) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 1, pkt 2 lit. b, pkt 3 i 4 lub § 2 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, 2) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 2 lit. a, 3) brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej – wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.
 >
-> § 1a. Wzywając do usunięcia braku, o którym mowa w § 1 pkt 2, osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.
+> § 1a.⁽²¹⁾ Wzywając do usunięcia braku, o którym mowa w § 1 pkt 2, osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.
 >
 > § 2. W razie uzupełnienia braku w terminie, pismo wywołuje skutki od dnia jego wniesienia. W razie nieuzupełnienia braku w terminie, pismo uznaje się za bezskuteczne, o czym należy pouczyć przy doręczeniu wezwania.
 >
 > § 3. W postępowaniu przed sądem zarządzenia w sprawach, o których mowa w § 1 i 2, może wydać także referendarz sądowy.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 20.
+*Odnośnik w tekście jednolitym* 19) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 20.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 82 pkt 5 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 20) W brzmieniu ustalonym przez art. 82 pkt 5 lit. a ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 82 pkt 5 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 21) Dodany przez art. 82 pkt 5 lit. b ustawy, o której mowa w odnośniku 6; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje skutki i tryb usuwania braków formalnych pisma procesowego, obejmując – podobnie jak art. 116 i art. 119 – zarówno brzmienie obecnie obowiązujące, jak i brzmienie przyszłe związane z etapowym wejściem w życie reformy elektronizacji z art. 119. W brzmieniu obecnie obowiązującym paragraf 1 przewiduje jednolity mechanizm wezwania do usunięcia braku w terminie 7 dni, jeżeli pismo nie odpowiada wymaganiom formalnym przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej. W brzmieniu, które wejdzie w życie z dniem 1 października 2029 r. na podstawie art. 82 pkt 5 lit. a ustawy nowelizującej, paragraf 1 zostanie zróżnicowany na trzy kategorie braków, każda odsyłająca do odpowiednich elementów zreformowanego art. 119 § 1: brak dotyczący wymagań z art. 119 § 1 pkt 1, pkt 2 lit. b, pkt 3 i 4 lub § 2 lub przepisów szczególnych, powodujący niemożność nadania pismu biegu (pkt 1); brak dotyczący wymagań z art. 119 § 1 pkt 2 lit. a, a więc oświadczenia o zgodzie na e-doręczenia (pkt 2), traktowany odrębnie ze względu na swoją specyfikę związaną z systemem doręczeń elektronicznych; oraz brak polegający na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej (pkt 3) – wobec wszystkich trzech kategorii brak usuwa się w tym samym terminie 7 dni. Paragraf 1a, dodany tą samą nowelizacją z mocą od 1 października 2029 r., nakłada dodatkowy obowiązek pouczenia przy wzywaniu do usunięcia braku, o którym mowa w § 1 pkt 2 – osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody na doręczenia elektroniczne albo jej braku, co ma zapewnić świadome podjęcie decyzji w tym zakresie. Paragraf 2 reguluje skutki uzupełnienia lub nieuzupełnienia braku – w razie uzupełnienia w terminie pismo wywołuje skutki od dnia jego pierwotnego wniesienia (co chroni stronę przed utratą terminu procesowego z powodu usuwalnego uchybienia formalnego), natomiast w razie nieuzupełnienia braku w terminie pismo uznaje się za bezskuteczne, o czym należy pouczyć przy doręczeniu wezwania. Paragraf 3 przyznaje kompetencję do wydania zarządzeń w sprawach, o których mowa w § 1 i 2, w postępowaniu przed sądem, także referendarzowi sądowemu, co odciąża sędziów od tej typowo technicznej czynności.
 

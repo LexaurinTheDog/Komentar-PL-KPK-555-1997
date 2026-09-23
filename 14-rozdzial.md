@@ -230,19 +230,19 @@ Przepis umożliwia Ministrowi Sprawiedliwości zawarcie z odpowiednim organem pa
 
 > Art. 611. § 1. Właściwy do rozpoznania spraw określonych w art. 608 § 3 w związku z § 1 i art. 609 § 1 jest sąd okręgowy, w którego okręgu skazany ostatnio stale mieszkał lub czasowo przebywał.
 >
-> § 2. (uchylony) § 3. Właściwy do rozpoznania spraw określonych w art. 610 § 2 i 3 jest sąd okręgowy, w którego okręgu wydano orzeczenie, którego wniosek dotyczy.
+> § 2. (uchylony)⁽⁸³⁾ § 3. Właściwy do rozpoznania spraw określonych w art. 610 § 2 i 3 jest sąd okręgowy, w którego okręgu wydano orzeczenie, którego wniosek dotyczy.
 >
-> § 3a. Do rozpoznania spraw innych niż określone w § 1 i 3 właściwy jest sąd rejonowy, w którego okręgu skazany stale mieszkał lub czasowo przebywał, a jeżeli tego nie ustalono – sąd rejonowy, w którego okręgu znajduje się mienie nadające się do egzekucji lub w którego okręgu skazany prowadzi działalność objętą zakazem.
+> § 3a.⁽⁸⁴⁾ Do rozpoznania spraw innych niż określone w § 1 i 3 właściwy jest sąd rejonowy, w którego okręgu skazany stale mieszkał lub czasowo przebywał, a jeżeli tego nie ustalono – sąd rejonowy, w którego okręgu znajduje się mienie nadające się do egzekucji lub w którego okręgu skazany prowadzi działalność objętą zakazem.
 >
 > § 4. Jeżeli nie można ustalić właściwości według zasad określonych w § 1, sprawę rozpoznaje Sąd Okręgowy w Warszawie.
 >
-> § 5. Jeżeli nie można ustalić właściwości według zasad określonych w § 3a, sprawę rozpoznaje sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy.
+> § 5.⁽⁸⁵⁾ Jeżeli nie można ustalić właściwości według zasad określonych w § 3a, sprawę rozpoznaje sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy.
 
-*Odnośnik w tekście jednolitym:* Przez art. 1 pkt 10 lit. a ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 83) Przez art. 1 pkt 10 lit. a ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 10 lit. b ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 84) Dodany przez art. 1 pkt 10 lit. b ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 1 pkt 10 lit. c ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 85) Ze zmianą wprowadzoną przez art. 1 pkt 10 lit. c ustawy, o której mowa w odnośniku 12; weszła w życie z dniem 10 września 2025 r.
 
 Przepis reguluje właściwość rzeczową i miejscową sądu w sprawach uregulowanych rozdziałem 66. § 1 wskazuje sąd okręgowy, w którego okręgu skazany ostatnio stale mieszkał lub czasowo przebywał, jako właściwy do rozpoznania spraw dopuszczalności przejęcia orzeczenia do wykonania w Polsce, o których mowa w art. 608 § 3 w związku z § 1, oraz spraw z art. 609 § 1, a więc spraw dotyczących kary pozbawienia wolności lub środka polegającego na pozbawieniu wolności. § 2 został uchylony; jego dotychczasową treść zastąpiono zmienionym brzmieniem pozostałych paragrafów, a regulację analogicznych kwestii przejęto do § 3a. § 3 określa właściwość sądu okręgowego, który wydał orzeczenie będące przedmiotem wniosku, do rozpoznania spraw z art. 610 § 2 i 3, a więc spraw dotyczących przekazania za granicę lub przejęcia od państwa obcego orzeczenia o karze pozbawienia wolności lub środku polegającym na pozbawieniu wolności wydanego przez sąd polski. § 3a wprowadza – jako przepis dodany nowelizacją – właściwość sądu rejonowego dla spraw innych niż określone w § 1 i 3, a więc dla spraw dotyczących grzywny i środków niepolegających na pozbawieniu wolności, ustalaną według miejsca stałego zamieszkania lub czasowego pobytu skazanego, a w razie niemożności ich ustalenia – według miejsca położenia mienia nadającego się do egzekucji lub miejsca prowadzenia działalności objętej zakazem. § 4 i § 5 zawierają klauzule zamykające ustalanie właściwości miejscowej: w sprawach z § 1 właściwy pomocniczo jest Sąd Okręgowy w Warszawie, a w sprawach z § 3a – sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy, co zapewnia, że w każdej sprawie objętej rozdziałem istnieje sąd właściwy, nawet gdy zwykłe kryteria ustalenia właściwości zawiodą. Zgodnie z przypisami urzędowymi obecne brzmienie § 1, § 3a oraz § 5 zostało wprowadzone nowelizacją, która weszła w życie z dniem 10 września 2025 r., przy czym § 3a został wówczas dodany jako nowa jednostka redakcyjna, a § 3 i § 5 uzyskały brzmienie odpowiednio dostosowane do wprowadzonego rozróżnienia właściwości sądu okręgowego i rejonowego.
 
@@ -330,7 +330,7 @@ Przepis reguluje sytuację tzw. ucieczki skazanego przed odbyciem kary lub wykon
 
 **Brzmienie przepisu:**
 
-> Art. 611ea. § 1. Jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między polskimi sądami a właściwymi organami państwa obcego, to:
+> Art. 611ea.⁽⁸⁶⁾ § 1. Jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między polskimi sądami a właściwymi organami państwa obcego, to:
 >
 > 1) przepisów niniejszego rozdziału o udziale Ministra Sprawiedliwości w przejmowaniu i przekazywaniu orzeczeń do wykonania nie stosuje się;
 >
@@ -348,7 +348,7 @@ Przepis reguluje sytuację tzw. ucieczki skazanego przed odbyciem kary lub wykon
 >
 > § 4. Przejęcie prowadzenia sprawy przez Ministra Sprawiedliwości może nastąpić do czasu prawomocnego zakończenia postępowania w przedmiocie dopuszczalności przejęcia lub przekazania orzeczenia do wykonania. W razie skutecznego przejęcia sprawy przepisu § 1 nie stosuje się, a postępowanie prowadzi się od początku.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 12; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 86) Dodany przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 12; wszedł w życie z dniem 10 września 2025 r.
 
 Przepis wprowadza – jako jednostka dodana nowelizacją, która weszła w życie z dniem 10 września 2025 r. – szczególny reżim postępowania w przypadkach, gdy umowa międzynarodowa wiążąca Rzeczpospolitą Polską przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między sądami polskimi a właściwymi organami państwa obcego, z pominięciem pośrednictwa Ministra Sprawiedliwości typowego dla pozostałych przepisów rozdziału 66. § 1 wylicza konsekwencje takiego uregulowania umownego: wyłączenie przepisów rozdziału o udziale Ministra Sprawiedliwości (pkt 1); możliwość wszczęcia postępowania w przedmiocie dopuszczalności przejęcia lub przekazania z urzędu, bez konieczności inicjatywy Ministra (pkt 2); możliwość wystąpienia przez sąd z urzędu bezpośrednio do organu obcego o przekazanie orzeczenia do wykonania (pkt 3); zrównanie stwierdzenia dopuszczalności przejęcia lub przekazania ze zgodą na przejęcie lub przekazanie (pkt 4); oraz analogiczne zrównanie stwierdzenia niedopuszczalności z odmową zgody (pkt 5) – konstrukcja ta upraszcza i przyspiesza procedurę, eliminując dodatkowy etap decyzyjny po stronie władzy wykonawczej, gdy zezwala na to umowa międzynarodowa. § 2 zastrzega jednak dla Ministra Sprawiedliwości uprawnienie do przejęcia prowadzenia każdej takiej sprawy, o ile umowa międzynarodowa się temu nie sprzeciwia, co stanowi wentyl bezpieczeństwa zachowujący nadzór władzy wykonawczej nad sprawami o szczególnym znaczeniu. § 3 przyznaje Ministrowi w tym celu uprawnienie do żądania przedstawienia niezbędnych informacji lub kopii dokumentów z akt sprawy. § 4 określa czasowe granice przejęcia prowadzenia sprawy przez Ministra – może to nastąpić do czasu prawomocnego zakończenia postępowania w przedmiocie dopuszczalności przejęcia lub przekazania, a skuteczne przejęcie sprawy powoduje, że przepisu § 1 nie stosuje się, zaś postępowanie prowadzi się od początku według zasad ogólnych rozdziału 66, z udziałem Ministra Sprawiedliwości.
 
